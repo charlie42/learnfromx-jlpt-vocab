@@ -1,0 +1,1092 @@
+﻿level,kanji,reading,meaning,in_waller,waller_level
+N5,と,と,"and, with",no,
+N5,ない; 無い,ない,"not; not there, nonexistent; to not have",no,
+N5,する,する,to do,yes,N5
+N5,こと; 事,こと,"thing(s), matter(s), fact",yes,N3
+N5,いる; 居る,いる,"to be, to exist (people, animals)",yes,N5
+N5,ある,ある,"to be, to exist (inanimate)",yes,N5
+N5,人,ひと,person,yes,N5
+N5,日,ひ,day; sun,yes,N4
+N5,いい; よい; 良い,いい; よい,good,yes,N5
+N5,この,この,this,yes,N5
+N5,そう,そう,"so, that way; that's right",yes,N4
+N5,お,お,"prefix: polite or honorific (e.g. お茶, お名前)",yes,N3
+N5,けど,けど,but; however; though (casual),no,
+N5,これ,これ,this one,yes,N5
+N5,よう,よう,"way, manner; seeming like",yes,N3
+N5,年,とし; ねん,"year, age (とし); year (ねん)",yes,N5
+N5,その,その,that,yes,N5
+N5,だけ,だけ,"particle: only, just; as much as (after a word, e.g. 一つだけ = only one)",yes,N1
+N5,的,てき,"-like, -istic (suffix)",yes,N1
+N5,なる,なる,to become,yes,N5
+N5,1人,ひとり,"one person, alone",no,
+N5,者,もの,person,yes,N3
+N5,月,つき,moon; month,yes,N3
+N5,中,なか,"inside, middle",yes,N5
+N5,何; なに,なに; なん,what,yes,N5
+N5,それ,それ,that one,yes,N5
+N5,でも,でも,"but, however (at sentence start); after a word: even, ...or something (e.g. お茶でも)",yes,N5
+N5,私,わたし; わたくし,"I, me",yes,N5
+N5,ため; 為,ため,"for the sake of, in order to; because of; good, benefit",yes,N4
+N5,時,とき,"time, when, moment",yes,N3
+N5,物; もの,もの,thing (concrete object),yes,N5
+N5,一,いち,one,yes,N5
+N5,今,いま,now,yes,N5
+N5,方,ほう; かた,"direction, side (ほう); person (polite) (かた)",yes,N5
+N5,さん,さん,suffix: Mr./Ms./Mrs. (after a name),yes,N1
+N5,日本,にほん; にっぽん,Japan,yes,N3
+N5,自分,じぶん,oneself,yes,N5
+N5,俺; オレ,おれ,"I, me (male, casual)",yes,N1
+N5,前,まえ,before; in front of,yes,N5
+N5,気,き,"spirit, feeling",yes,N4
+N5,一人,ひとり,one person,yes,N5
+N5,時間,じかん,time,yes,N5
+N5,何日,なんにち,how many days; what day of the month,no,
+N5,どう,どう,how,yes,N5
+N5,一人で; ひとりで,ひとりで,"alone, by oneself",no,
+N5,また,また,"again, also",yes,N5
+N5,もう,もう,already; again; more,yes,N5
+N5,目,め,eye(s),yes,N5
+N5,一日,いちにち; ついたち,"one day, all day (いちにち); first day of the month (ついたち)",yes,N5
+N5,できる; 出来る,できる,"can do, to be able to",yes,N5
+N5,何年,なんねん,what year; how many years,no,
+N5,話,はなし,"talk (chat), story",yes,N5
+N5,何月,なんがつ,what month,no,
+N5,思う,おもう,to think,yes,N4
+N5,一年,いちねん,one year,no,
+N5,今まで,いままで,"until now, so far",no,
+N5,家,いえ,"house, home",yes,N5
+N5,分,ぶ; ぶん,"part, share, portion (ぶん); odds, advantage (ぶ)",yes,N3
+N5,円,えん,yen; circle,yes,N3
+N5,後,あと; のち,"after, later, the rest (あと); later, in the future (のち)",yes,N5
+N5,二,に,two,yes,N5
+N5,好き,すき,"liking, fondness, love",yes,N5
+N5,たち; 達,たち,"plural suffix for people (we, you all, they)",no,
+N5,ここ; ココ,ここ,"here, this place",yes,N5
+N5,性,せい,"sex, gender",yes,N3
+N5,上,うえ,"above, over, on top of",yes,N5
+N5,回,かい,counter for times (三回 = three times),yes,N3
+N5,考え,かんがえ,"thinking, thought, ideas",yes,N3
+N5,感じ,かんじ,"feeling, sense, impression",yes,N3
+N5,数,かず; すう,"number, figure",yes,N3
+N5,必要,ひつよう,necessary,yes,N4
+N5,万,まん,ten thousand,yes,N5
+N5,そんな,そんな,"such, like that, that sort of",yes,N4
+N5,誰,だれ,who,yes,N5
+N5,ちょっと,ちょっと,"a little, somewhat; just a little, somewhat",yes,N5
+N5,二人,ふたり,two people,yes,N5
+N5,本,ほん,book,yes,N5
+N5,一時間,いちじかん,one hour,no,
+N5,世界,せかい,world,yes,N4
+N5,他,ほか; た,"other, another",yes,N3
+N5,ありがとう,ありがとう,thank you,yes,N3
+N5,あれ,あれ,that one (over there),yes,N5
+N5,つ,つ,"counter for general objects (一つ, 二つ)",no,
+N5,よく; 良く,よく,"well, skillfully; often",yes,N5
+N5,ああ,ああ,"Ah!, Oh!",yes,N4
+N5,言う; いう,いう; ゆう,to say,yes,N5
+N5,仕事,しごと,"work, job, occupation, employment",yes,N5
+N5,誰か,だれか,someone,yes,N3
+N5,二日,ふつか,two days; second day of the month,yes,N5
+N5,市,いち; し,"market, fair (いち); city (し)",yes,N4
+N5,県,けん,prefecture,yes,N3
+N5,あなた; 貴方,あなた,you,yes,N5
+N5,同じ,おなじ,"same, identical",yes,N5
+N5,こんな,こんな,"such, like this",yes,N5
+N5,問題,もんだい,a problem,yes,N5
+N5,まだ,まだ,"yet, still, besides",yes,N5
+N5,度,ど; たび,"degree, times, extent (ど); time, occasion, each time (たび)",yes,N3
+N5,手,て,hand,yes,N5
+N5,一分,いっぷん,one minute,no,
+N5,みんな,みんな,"all, everyone, everybody",yes,N5
+N5,ゲーム,ゲーム,game,yes,N3
+N5,私たち; 私達,わたしたち,"we, us",no,
+N5,そして; そうして,そして; そうして,"and then, and",yes,N5
+N5,みんなで,みんなで,"all together, everyone together",no,
+N5,情報,じょうほう,"information, (military) intelligence",yes,N3
+N5,三,さん,three,yes,N5
+N5,何回,なんかい,how many times,no,
+N5,二時,にじ,2 o'clock,no,
+N5,関係,かんけい,"relation(ship), connection",yes,N4
+N5,僕,ぼく,"I, me (male)",yes,N4
+N5,くれる,くれる,"to give, to do for",yes,N4
+N5,会,かい,"suffix: meeting, party (歓迎会 = welcome party)",yes,N3
+N5,力,ちから,"strength, power",yes,N4
+N5,国,くに,country; home region,yes,N5
+N5,今日,きょう; こんにち,"today (きょう); nowadays, these days (こんにち)",yes,N5
+N5,しかし,しかし,however; but,yes,N5
+N5,本当に; ほんとに,ほんとうに; ほんとに,"really, truly",no,
+N5,ちゃん,ちゃん,diminutive suffix,yes,N4
+N5,多い,おおい,many; there are a lot,yes,N5
+N5,車,くるま,"car, vehicle",yes,N5
+N5,俺たち,おれたち,"we, us (masculine)",no,
+N5,金,かね; きん,money; metal (かね); gold (きん),yes,N3
+N5,子,こ,child,yes,N4
+N5,一万,いちまん,"ten thousand, 10000",no,
+N5,以上,いじょう,more than; this is all,yes,N4
+N5,場合,ばあい,"case, situation",yes,N4
+N5,どこ,どこ,where,yes,N5
+N5,あの,あの,"that over there; like that, that way; um...",yes,N5
+N5,男,おとこ,"man, male",yes,N5
+N5,間,あいだ; ま,"space, gap, between, during (あいだ); room, pause, time (ま)",yes,N4
+N5,所,ところ,place,yes,N5
+N5,女,おんな,"woman, female",yes,N5
+N5,三日,みっか,"three days, third day of the month",yes,N5
+N5,人間,にんげん,"human being, person",yes,N3
+N5,名,な,name; reputation,yes,N3
+N5,過ぎ; すぎ,すぎ,past (the hour); after; excess (suffix usage),yes,N1
+N5,やる,やる,to do (casual),yes,N5
+N5,行く; いく,いく; ゆく,to go,yes,N5
+N5,次,つぎ,next,yes,N5
+N5,何度,なんど,how many times,no,
+N5,位,くらい,"rank, grade; about, approximately",yes,N3
+N5,様,さま,"Mr., Mrs., Ms. (polite suffix); appearance, state",no,
+N5,欲しい,ほしい,"to want, in need of",yes,N5
+N5,後で; あとで,あとで,"later, afterwards",no,
+N5,男の人,おとこのひと,man,yes,N3
+N5,見る; 観る,みる,"to see, to watch",yes,N5
+N5,歳; 才,さい,"counter for age, years old",yes,N1
+N5,すぐに,すぐに,"immediately, soon",yes,N5
+N5,すぐ,すぐ,immediately,yes,N1
+N5,ただ; タダ; 唯; 只,ただ,"free of charge; just, only, mere",yes,N3
+N5,女性,じょせい,woman,yes,N4
+N5,訳; わけ,わけ; やく,"reason, meaning (わけ); translation (やく)",yes,N4
+N5,意味,いみ,"meaning, significance",yes,N5
+N5,日間,にちかん,counter for days,no,
+N5,女の人,おんなのひと,woman,yes,N2
+N5,そこ,そこ,"there, that place",yes,N5
+N5,一緒,いっしょ,together,yes,N5
+N5,一緒に,いっしょに,together,no,
+N5,うち,うち,home; house; my place,yes,N4
+N5,君,きみ,you (casual),yes,N4
+N5,店,みせ,"store, shop",yes,N5
+N5,もっと,もっと,more,yes,N5
+N5,悪い,わるい,"bad, sinful; inferior",yes,N5
+N5,新,しん,new (prefix),yes,N1
+N5,生,なま; せい,"raw, fresh, live (なま); life, living (せい)",yes,N3
+N5,結果,けっか,"result, consequence",yes,N3
+N5,顔,かお,face (body part),no,
+N5,先,さき,"tip, end; ahead; the future; earlier",yes,N5
+N5,写真,しゃしん,a picture; a photograph,yes,N5
+N5,内,うち,"inside, within",yes,N3
+N5,しまう,しまう,to end up doing (auxiliary); also to put away,yes,N3
+N5,参加,さんか,"to participate, to take part",yes,N3
+N5,会社,かいしゃ,"company, corporation",yes,N5
+N5,声,こえ,voice,yes,N5
+N5,違う,ちがう,to be different; to differ; wrong,yes,N5
+N5,お願い,おねがい,"request, please",no,
+N5,ございます,ございます,"to be, to have (very polite), used after words as in おはようございます",yes,N1
+N5,最近,さいきん,"recently, nowadays, in recent years, most recent, latest",yes,N4
+N5,用,よう,"errand, task, business (to take care of)",yes,N4
+N5,やつ; 奴,やつ,"guy, fellow (rough); thing (casual)",yes,N1
+N5,十; とお,じゅう; とお,ten,yes,N5
+N5,頭,あたま; かしら,"head (あたま); chief, boss (かしら)",yes,N5
+N5,少し,すこし,"little, few",yes,N5
+N5,彼,かれ,"he, him; boyfriend",yes,N4
+N5,子供; 子ども,こども,child(ren),yes,N5
+N5,いつも,いつも,"always, usually, every time; never (with a negative verb)",yes,N5
+N5,お前,おまえ,you (casual or rude),yes,N3
+N5,心,こころ,"heart, mind",yes,N4
+N5,こちら,こちら,this person (polite); this way (polite),yes,N5
+N5,名前,なまえ,name,yes,N5
+N5,アニメ,アニメ,"anime, animated show",no,
+N5,お願いします,おねがいします,please (a polite request),yes,N1
+N5,高い,たかい,"tall, high; expensive",yes,N5
+N5,下,した; しも,"under, below, beneath (した); lower part, downstream (しも)",yes,N5
+N5,お店,おみせ,"shop, store (polite)",no,
+N5,一番,いちばん,"best (most), first, number one",yes,N3
+N5,言葉,ことば,language; word(s); expression(s),yes,N5
+N5,大丈夫,だいじょうぶ,It's ok (all right); No need to worry; Everything is under control,yes,N5
+N5,町,まち,"town, city",yes,N5
+N5,映画,えいが,"movie, film",yes,N5
+N5,十日,とおか,ten days; tenth day of the month,yes,N5
+N5,出る; でる,でる,"to go out, to leave; to appear",yes,N5
+N5,方法,ほうほう,"method, means, technique",yes,N3
+N5,理由,りゆう,reason,yes,N4
+N5,とても,とても,"very (much), greatly, exceedingly",yes,N5
+N5,駅,えき,station,yes,N5
+N5,体,からだ,body; health,yes,N5
+N5,初め; 始め,はじめ,"beginning, start",yes,N5
+N5,彼女,かのじょ,girlfriend; she,yes,N4
+N5,十時,じゅうじ,10 o'clock,no,
+N5,ころ; ごろ; 頃,ころ; ごろ,"time, period; around, about (a time), as in 3時ごろ",yes,N3
+N5,下さい,ください,(with te-form verb) please do for me,yes,N5
+N5,いってきます,いってきます,I'm off; see you later,no,
+N5,十一; じゅういち,じゅういち,"eleven, 11",no,
+N5,水,みず,water,yes,N5
+N5,番,ばん,"suffix: number, -th (一番 = number one)",yes,N3
+N5,学校,がっこう,a school,yes,N5
+N5,簡単,かんたん,simple,yes,N4
+N5,先生,せんせい,"teacher, professor; master; doctor",yes,N5
+N5,側,がわ,side (as in 右側 = right side),yes,N3
+N5,十一日,じゅういちにち,11th day of the month,no,
+N5,気持ち,きもち,"feeling, sensation, mood",yes,N4
+N5,全部,ぜんぶ,"all, entire, whole",yes,N5
+N5,夜,よる; よ,"night, evening",yes,N5
+N5,まま,まま,"as it is, unchanged",no,
+N5,お水,おみず,water (polite),no,
+N5,過ぎる; すぎる,すぎる,"to pass; to exceed, to be too much",yes,N4
+N5,結婚,けっこん,marriage (get married),yes,N5
+N5,外,そと; ほか,"outside, exterior (そと); other, else (ほか)",yes,N5
+N5,テレビ,テレビ,"television, TV",yes,N5
+N5,枚,まい,counter for flat things,yes,N1
+N5,十分,じゅうぶん,enough,yes,N4
+N5,友達,ともだち,friend,yes,N5
+N5,色,いろ,color,yes,N5
+N5,初めて,はじめて,for the first time,yes,N5
+N5,一つ,ひとつ,one thing,yes,N5
+N5,十二,じゅうに,twelve,no,
+N5,二十,にじゅう,"twenty, 20",yes,N3
+N5,十一時,じゅういちじ,11 o'clock,no,
+N5,ずっと; ずーっと; ずうっと,ずっと; ずーっと; ずうっと,for a long time; all the time; consecutively,yes,N3
+N5,お前たち,おまえたち,you guys,no,
+N5,子供たち; 子どもたち,こどもたち,children,no,
+N5,何番,なんばん,what number,no,
+N5,だめ; ダメ; 駄目,だめ,"no good, useless; not allowed",yes,N3
+N5,ありがとうございます,ありがとうございます,thank you very much,no,
+N5,新しい,あたらしい,new,yes,N5
+N5,どんな,どんな,"what, what kind of",yes,N3
+N5,かなり,かなり,"considerably, fairly, quite",yes,N3
+N5,初,はつ,"first, first-time",yes,N1
+N5,お兄ちゃん; おにいちゃん,おにいちゃん,older brother (familiar/childlike form),no,
+N5,こう,こう,"like this, this way",yes,N4
+N5,なぜ,なぜ,why (same as どうして),yes,N5
+N5,女の子,おんなのこ,girl,yes,N5
+N5,二十日,はつか,"twenty days, twentieth (day of the month)",yes,N5
+N5,十二日,じゅうににち,12th day of the month,no,
+N5,音,おん; おと,"sound, noise (おと); speech sound, Chinese-style kanji reading (おん)",yes,N4
+N5,娘,むすめ,daughter (humble),yes,N4
+N5,大変,たいへん,"very; difficult, hard",yes,N3
+N5,夢,ゆめ,a dream,yes,N4
+N5,風,かぜ; ふう,"wind, breeze (かぜ); way, style, manner (ふう)",yes,N5
+N5,道,みち,"road, street; way",yes,N5
+N5,どの,どの,which,yes,N5
+N5,お金,おかね,money,yes,N5
+N5,電話,でんわ,a telephone,yes,N5
+N5,十三,じゅうさん,"thirteen, 13",no,
+N5,三十,さんじゅう,"thirty, 30",no,
+N5,十二時,じゅうにじ,"12 o'clock, noon or midnight",no,
+N5,もちろん; 勿論,もちろん,of course,yes,N3
+N5,明日,あした; あす,tomorrow,yes,N5
+N5,口,くち,mouth,yes,N5
+N5,ニュース,ニュース,news,yes,N5
+N5,花,はな,flower,yes,N5
+N5,いつ,いつ,when,yes,N5
+N5,号,ごう,counter for issue numbers,yes,N1
+N5,来る,くる,to come,yes,N5
+N5,朝,あさ,morning,yes,N5
+N5,使う,つかう,to use,yes,N5
+N5,屋,や,"suffix: shop, store (本屋 = bookshop)",no,
+N5,十三日,じゅうさんにち,13th day of the month,no,
+N5,三十日,さんじゅうにち,30th day of the month,no,
+N5,自由,じゆう,freedom,yes,N4
+N5,家族,かぞく,"family, members of a family",yes,N5
+N5,部屋,へや,a room,yes,N5
+N5,英語,えいご,English (language),yes,N5
+N5,夏,なつ,summer,yes,N5
+N5,質問,しつもん,"question, inquiry",yes,N5
+N5,大学,だいがく,college; university,yes,N5
+N5,強い,つよい,"strong, powerful",yes,N5
+N5,だから,だから,so; therefore,yes,N4
+N5,何号,なんごう,"what number, what issue",no,
+N5,いやいや,いやいや,"no, no; not at all",no,
+N5,足; 脚,あし,"foot; leg (脚 is used mainly for ""leg"")",yes,N5
+N5,安全,あんぜん,"safety, security",yes,N4
+N5,はい,はい,yes,yes,N5
+N5,大きな,おおきな,big,yes,N5
+N5,音楽,おんがく,Music,yes,N5
+N5,毎日,まいにち,every day,yes,N5
+N5,大事,だいじ,"important, valuable, serious matter",yes,N4
+N5,結構,けっこう,"splendid; enough, tolerably",yes,N5
+N5,個,こ,"counter for small items (e.g., fruits, cups)",yes,N1
+N5,病院,びょういん,hospital,yes,N5
+N5,どれ,どれ,which one,yes,N5
+N5,こっち,こっち,this person; this direction; this side,yes,N5
+N5,三十分,さんじゅっぷん,"thirty minutes, half past",no,
+N5,犬,いぬ,dog,yes,N5
+N5,台,だい,counter for vehicles; machines,yes,N3
+N5,考える,かんがえる,to think (about); to consider,yes,N4
+N5,こいつ; コイツ,こいつ,"this guy, this person (casual, can be rude)",no,
+N5,バカ; 馬鹿,ばか,"fool, idiot",yes,N3
+N5,母,はは,(my) mother,no,
+N5,海,うみ,"sea, beach",yes,N5
+N5,面白い,おもしろい,"interesting, amusing",yes,N1
+N5,週間,しゅうかん,counter for weeks (二週間 = two weeks),yes,N3
+N5,作る,つくる,"to make, to create",yes,N5
+N5,怖い,こわい,"scary, frightening",yes,N4
+N5,特別,とくべつ,special,yes,N4
+N5,光,ひかり,light,yes,N4
+N5,じゃ; じゃあ,じゃ; じゃあ,"well then, so",yes,N5
+N5,千,せん,thousand,yes,N5
+N5,近く,ちかく,nearby; in the neighborhood,yes,N5
+N5,全然,ぜんぜん,"not at all; wholly, entirely",yes,N3
+N5,何個,なんこ,how many (items),no,
+N5,ええ,ええ,yes,yes,N5
+N5,父,ちち,(my) father,no,
+N5,嫌,いや,"disagreeable, detestable, unpleasant",yes,N5
+N5,死ぬ,しぬ,to die,yes,N5
+N5,二十歳,はたち,20 years old,yes,N5
+N5,持つ,もつ,"to hold, to carry; to possess",yes,N5
+N5,いただきます,いただきます,expression of gratitude before meals,yes,N3
+N5,ヶ月; か月,かげつ,counter for months,yes,N1
+N5,色々,いろいろ,various,yes,N1
+N5,本当; ホント,ほんとう; ほんと,"truth, reality; real, true",yes,N3
+N5,嘘; ウソ,うそ,lie,yes,N3
+N5,どのくらい; どのぐらい,どのくらい; どのぐらい,"how much, how long, how far",no,
+N5,絵,え,a painting; a picture; a drawing,yes,N5
+N5,昨日,きのう,yesterday,yes,N5
+N5,今年,ことし,this year,yes,N5
+N5,多分,たぶん,"perhaps, probably, maybe",yes,N3
+N5,猫,ねこ,cat,yes,N5
+N5,難しい,むずかしい,difficult,yes,N5
+N5,心配,しんぱい,"worry, concern",yes,N3
+N5,一週間,いっしゅうかん,one week,no,
+N5,可愛い,かわいい,"cute, adorable",yes,N1
+N5,元気,げんき,"health(y), energetic",yes,N5
+N5,語,ご,"word, language",yes,N3
+N5,白,しろ,white,yes,N5
+N5,入る,はいる,"to enter, to contain, to hold",yes,N5
+N5,バス,バス,bus; bath; bass,yes,N5
+N5,百,ひゃく,hundred,yes,N5
+N5,残念,ざんねん,regret; regrettable,yes,N4
+N5,年間,ねんかん,counter for years,yes,N3
+N5,お酒,おさけ,sake; alcohol,yes,N5
+N5,服,ふく,clothes,yes,N5
+N5,勉強,べんきょう,study,yes,N5
+N5,一ヶ月,いっかげつ,one month,no,
+N5,くん,くん,suffix for boys and younger men (familiar),yes,N4
+N5,嫌い,きらい,dislike,yes,N5
+N5,スポーツ,スポーツ,sport(s),yes,N5
+N5,楽しい,たのしい,"enjoyable, fun",yes,N5
+N5,すごく,すごく,"very, extremely, awfully",no,
+N5,木,き,"tree, wood, timber",yes,N5
+N5,黒,くろ,black,yes,N5
+N5,倍,ばい,double,yes,N4
+N5,買う,かう,to buy,yes,N5
+N5,誕生日,たんじょうび,birthday,yes,N5
+N5,山,やま,mountain,yes,N5
+N5,答え; 答,こたえ,answer,yes,N4
+N5,高校; 高等学校,こうこう; こうとうがっこう,high school (高等学校 is the full form),yes,N4
+N5,二千,にせん,"two thousand, 2000",no,
+N5,学生,がくせい,student,yes,N5
+N5,歌,うた,song,yes,N5
+N5,大人,おとな,adult,yes,N5
+N5,薬,くすり,medicine,yes,N5
+N5,嬉しい,うれしい,"happy, glad",yes,N3
+N5,どれくらい; どれぐらい,どれくらい; どれぐらい,"how much, how many; how long",no,
+N5,右,みぎ,right hand side,yes,N5
+N5,料理,りょうり,cooking; cuisine,yes,N5
+N5,日本人,にほんじん,Japanese person,no,
+N5,ごめん; 御免,ごめん,"declining (something); pardon, sorry",yes,N2
+N5,危険,きけん,"danger, risk, hazard",yes,N4
+N5,カメラ,カメラ,camera,yes,N5
+N5,大好き,だいすき,to love; to like very much,yes,N5
+N5,出す,だす,to take (something) out; to hand in (something),yes,N5
+N5,動物,どうぶつ,animal,yes,N5
+N5,春,はる,spring,yes,N5
+N5,二百,にひゃく,"two hundred, 200",no,
+N5,分かる; 判る,わかる,to understand,yes,N5
+N5,大切,たいせつ,important,yes,N5
+N5,どっち,どっち,"which one, which way",yes,N5
+N5,ページ,ページ,a page,yes,N5
+N5,少ない,すくない,a little; a few,yes,N5
+N5,キレイ; 綺麗,きれい,"pretty, clean, tidy",yes,N5
+N5,銀行,ぎんこう,bank,yes,N5
+N5,空,そら; から,sky (そら); empty (から),yes,N5
+N5,近い,ちかい,"near, close by, short",yes,N5
+N5,長い,ながい,"long, lengthy",yes,N5
+N5,番号,ばんごう,"number, series of digits",yes,N5
+N5,日本語,にほんご,Japanese language,no,
+N5,十個,じゅっこ,ten (items),no,
+N5,階,かい,counter for stories (floors) of a building,yes,N1
+N5,もらう; 貰う,もらう,"to receive, to get",yes,N3
+N5,馬,うま,horse; promoted bishop (in Japanese chess known as shogi),yes,N3
+N5,皆,みな,everyone,yes,N4
+N5,四,よん; し,four,yes,N5
+N5,どうぞ,どうぞ,"please, kindly, by all means",yes,N5
+N5,肉,にく,meat,yes,N5
+N5,皆さん,みなさん,"all of you, everyone",yes,N5
+N5,村,むら,village,yes,N5
+N5,携帯,けいたい,carrying something; mobile telephone,yes,N1
+N5,スーパー,スーパー,supermarket,no,
+N5,三百,さんびゃく,"three hundred, 300",no,
+N5,食べる,たべる,to eat,yes,N5
+N5,どちら,どちら,which (one) (way); where (polite),yes,N5
+N5,かかる,かかる,to take (time or money),yes,N5
+N5,電車,でんしゃ,electric train,yes,N5
+N5,船,ふね,"ship, boat",yes,N3
+N5,息子,むすこ,(humble) son,yes,N4
+N5,火,ひ,fire,yes,N4
+N5,聞く,きく,"to hear, to listen, to ask",yes,N5
+N5,ホテル,ホテル,hotel,yes,N5
+N5,四日,よっか,four days; fourth day of the month,yes,N5
+N5,または,または,"or, otherwise",yes,N4
+N5,入れる,いれる,to put in,yes,N5
+N5,有名,ゆうめい,famous,yes,N5
+N5,石,いし,stone,yes,N4
+N5,四時,よじ,4 o'clock,no,
+N5,仕方ない; しかたない,しかたない,it can't be helped,no,
+N5,雨,あめ,rain,yes,N5
+N5,外国,がいこく,foreign country; abroad,yes,N5
+N5,北,きた,north,yes,N5
+N5,半,はん,half (as in 二時半 = half past two),yes,N5
+N5,左,ひだり,left hand side,yes,N5
+N5,よろしく,よろしく,"please, best regards",yes,N3
+N5,赤,あか,red,yes,N5
+N5,外国人,がいこくじん,foreigner,yes,N5
+N5,箱,はこ,box,yes,N5
+N5,若い,わかい,young,yes,N5
+N5,どういう,どういう,what kind of,no,
+N5,新聞,しんぶん,newspaper,yes,N5
+N5,パン,パン,bread,yes,N5
+N5,南,みなみ,South,yes,N5
+N5,読む,よむ,to read,yes,N5
+N5,スマホ,スマホ,smartphone,no,
+N5,五,ご,five,yes,N5
+N5,大きい,おおきい,"big, large",yes,N5
+N5,妹,いもうと,younger sister (humble),yes,N5
+N5,カップ,カップ,cup,yes,N5
+N5,テスト,テスト,test,yes,N5
+N5,耳,みみ,ear,yes,N5
+N5,付く; つく,つく,"to be attached, to stick to; to adjoin",yes,N4
+N5,五日,いつか,five days; fifth day of the month,yes,N5
+N5,クラス,クラス,a class,yes,N5
+N5,凄い,すごい,"terrific, great",yes,N4
+N5,けれど; けれども,けれど; けれども,"but, however, although (けれども is a little more formal)",yes,N4
+N5,飲む,のむ,to drink,yes,N5
+N5,いくつ,いくつ,"how many, how old",yes,N5
+N5,旅行,りょこう,"travel, trip",yes,N5
+N5,美しい,うつくしい,"beautiful, lovely",yes,N4
+N5,五時,ごじ,5 o'clock,no,
+N5,おはよう,おはよう,good morning,yes,N2
+N5,秋,あき,fall (season),yes,N5
+N5,コーヒー,コーヒー,coffee,yes,N5
+N5,トイレ,トイレ,bathroom; toilet,yes,N5
+N5,早い,はやい,early,yes,N5
+N5,おめでとう,おめでとう,congratulations!,yes,N3
+N5,紙,かみ,paper,yes,N5
+N5,生徒,せいと,student; pupil,yes,N5
+N5,練習,れんしゅう,(to) practice,yes,N5
+N5,正しい,ただしい,correct,yes,N4
+N5,弟,おとうと,younger brother,yes,N5
+N5,電気,でんき,"electricity, (electric) light",yes,N5
+N5,杯,さかずき,sake cup,yes,N1
+N5,ゆっくりと,ゆっくりと,"slowly, at ease",yes,N5
+N5,横,よこ,beside; side; width,yes,N5
+N5,ゆっくり,ゆっくり,"slowly, at ease",yes,N3
+N5,ママ,ママ,Mama,yes,N3
+N5,十四,じゅうし,"fourteen, 14",no,
+N5,四十,よんじゅう,"forty, 40",no,
+N5,五分,ごふん,five minutes,no,
+N5,小さい,ちいさい,"small, little",yes,N5
+N5,いくら,いくら,"how much, how many",yes,N5
+N5,川; 河,かわ,river,yes,N5
+N5,小さな,ちいさな,"small, little",yes,N5
+N5,十四日,じゅうよっか,14th day of the month,no,
+N5,首; クビ,くび,neck; getting fired,yes,N4
+N5,八,はち,eight,yes,N5
+N5,安い,やすい,inexpensive; cheap (things),yes,N5
+N5,兄,あに,(my) older brother (humble),yes,N5
+N5,冬,ふゆ,winter,yes,N5
+N5,お帰り,おかえり,"return, welcome",yes,N2
+N5,青,あお,blue,yes,N5
+N5,雑誌,ざっし,"magazine, journal",yes,N5
+N5,西,にし,west,yes,N5
+N5,半分,はんぶん,half,yes,N5
+N5,八日,ようか,eight days; eighth day of the month,yes,N5
+N5,よろしくお願いします,よろしくおねがいします,pleased to meet you; I'm in your care; thank you in advance,no,
+N5,試験,しけん,an exam,yes,N4
+N5,なるほど,なるほど,I see; I now understand,yes,N4
+N5,公園,こうえん,a park,yes,N5
+N5,沢山,たくさん,"many, much",yes,N1
+N5,東,ひがし,east,yes,N5
+N5,終わる; 終る; おわる,おわる,"to end, to finish; to finish doing (食べ終わる)",yes,N5
+N5,八時,はちじ,8 o'clock,no,
+N5,ごめんなさい,ごめんなさい,"I beg your pardon, excuse me, I'm sorry",yes,N3
+N5,後ろ,うしろ,"back, behind, rear",yes,N5
+N5,家庭,かてい,home; family,yes,N5
+N5,古い,ふるい,"old (in reference to objects, not people), aged, ancient",yes,N5
+N5,雪,ゆき,snow,yes,N5
+N5,電話番号,でんわばんごう,phone number,no,
+N5,二十四日,にじゅうよっか,24th day of the month,no,
+N5,十五,じゅうご,"fifteen, 15",no,
+N5,五十,ごじゅう,"fifty, 50",no,
+N5,建物,たてもの,building,yes,N5
+N5,ラジオ,ラジオ,radio,yes,N5
+N5,十五日,じゅうごにち,15th day of the month,no,
+N5,こんにちは,こんにちは,"hello, good day (daytime greeting)",yes,N3
+N5,痛い,いたい,hurt; painful; sore,yes,N5
+N5,低い,ひくい,"short, low",yes,N5
+N5,病気,びょうき,illness; sickness,yes,N5
+N5,おはようございます,おはようございます,good morning (polite greeting),no,
+N5,美味しい,おいしい,"delicious, tasty",yes,N1
+N5,どうして,どうして,"why, for what reason",yes,N5
+N5,取る,とる,to take; to pick up; to get,yes,N5
+N5,休み,やすみ,holiday; day off; absence,yes,N5
+N5,呼ぶ,よぶ,to call (one's name); to invite,yes,N5
+N5,週,しゅう,week,yes,N3
+N5,知る,しる,"to know, to understand",yes,N5
+N5,姉,あね,(my) older sister (humble),yes,N5
+N5,午後,ごご,"afternoon, P.M.",yes,N5
+N5,シャツ,シャツ,shirt,yes,N5
+N5,ゼロ,ゼロ,zero,yes,N5
+N5,ベッド,ベッド,bed,yes,N5
+N5,ラーメン,ラーメン,ramen; Japanese noodle dish,no,
+N5,十五分,じゅうごふん,"fifteen minutes, quarter past",no,
+N5,つける; 付ける,つける,"to attach, to add; to turn on (a light etc.)",yes,N5
+N5,兄弟,きょうだい,"siblings (humble), brothers and sisters",yes,N5
+N5,魚,さかな,fish,yes,N5
+N5,腕,うで,arm (in reference to body),yes,N4
+N5,すみません,すみません,excuse me; I'm sorry; thank you,yes,N3
+N5,授業,じゅぎょう,a class (of school),yes,N5
+N5,隣,となり,"next to, next door to",yes,N5
+N5,鳥,とり,bird; chicken,yes,N5
+N5,始まる,はじまる,(something) begins,yes,N5
+N5,十八,じゅうはち,"eighteen, 18",no,
+N5,八十,はちじゅう,"eighty, 80",no,
+N5,便利,べんり,"convenient, handy",yes,N5
+N5,風呂,ふろ,bath,yes,N3
+N5,お風呂,おふろ,a bath,yes,N5
+N5,自動車,じどうしゃ,automobile,yes,N5
+N5,ボタン,ボタン,button,yes,N5
+N5,緑,みどり,green,yes,N5
+N5,あんな,あんな,"such, like that",yes,N4
+N5,いろんな; 色んな,いろんな,various; all kinds of,no,
+N5,書く,かく,to write,yes,N5
+N5,自転車,じてんしゃ,bicycle,yes,N5
+N5,窓,まど,window,yes,N5
+N5,ビール,ビール,beer,yes,N3
+N5,草,くさ,grass,yes,N4
+N5,あいつ; アイツ,あいつ,"that guy, that person (casual, can be rude)",no,
+N5,六,ろく,six,yes,N5
+N5,七,なな; しち,seven,yes,N5
+N5,かける,かける,"to dial/call (e.g., phone); to sit down",yes,N5
+N5,辛い,からい; つらい,"spicy, hot; salty (からい); painful, hard (つらい)",yes,N5
+N5,掃除,そうじ,"cleaning, sweeping",yes,N5
+N5,そっち,そっち,over there,yes,N5
+N5,はっきり; ハッキリ,はっきり,"clearly, plainly, distinctly",yes,N4
+N5,映画館,えいがかん,"movie theater, cinema",yes,N5
+N5,七日,なのか,seven days; seventh day (of the month),yes,N5
+N5,六日,むいか,six days; sixth day of month,yes,N5
+N5,靴,くつ,"shoes, footwear",yes,N5
+N5,寝る,ねる,to sleep; to go to sleep; to go to bed,yes,N5
+N5,六時,ろくじ,6 o'clock,no,
+N5,七時,しちじ,7 o'clock,no,
+N5,どうも,どうも,Thank you; somehow; no matter how hard one may try,yes,N5
+N5,帰る,かえる,"to go back, to go home, to return",yes,N5
+N5,キロ,キロ,kilo (short for kilogram or kilometer),yes,N5
+N5,うまい; 上手い; 旨い,うまい,"skillful, good at; delicious; fortunate",yes,N3
+N5,お腹,おなか,stomach,yes,N3
+N5,角,かど; かく; つの,corner (かど); angle (かく); horn (つの),yes,N5
+N5,パーティー,パーティー,a party,yes,N5
+N5,びっくり,びっくり,"surprise, shock",yes,N3
+N5,銀,ぎん,silver,yes,N3
+N5,優しい,やさしい,"kind, gentle",yes,N4
+N5,そば,そば,"near, close, beside",yes,N5
+N5,卵,たまご,egg,yes,N5
+N5,話す,はなす,to speak,yes,N5
+N5,弱い,よわい,weak,yes,N5
+N5,得意,とくい,"good at, strong point",yes,N3
+N5,牛,うし,"cattle, cow",yes,N3
+N5,カレー,カレー,"curry, curry and rice",yes,N5
+N5,午前,ごぜん,"morning, A.M.",yes,N5
+N5,では,では,"then, well, so",yes,N5
+N5,働く,はたらく,to work,yes,N5
+N5,鼻,はな,nose,yes,N5
+N5,二つ,ふたつ,two things,yes,N5
+N5,毎年,まいねん; まいとし,every year,yes,N5
+N5,あたし,あたし,"I, me (casual, mostly female speakers)",yes,N1
+N5,苦手,にがて,"poor (at), weak (in), dislike (of)",yes,N3
+N5,野菜,やさい,vegetable,yes,N5
+N5,悲しい,かなしい,"sad, sorrowful",yes,N4
+N5,十六,じゅうろく,"sixteen, 16",no,
+N5,十七,じゅうしち,"seventeen, 17",no,
+N5,六十,ろくじゅう,"sixty, 60",no,
+N5,七十,ななじゅう,"seventy, 70",no,
+N5,お母さん,おかあさん,mother (formal),yes,N5
+N5,がる,がる,"suffix: to show signs of feeling (e.g. 寒がる, 欲しがる)",yes,N1
+N5,塩,しお,salt,yes,N5
+N5,上手,じょうず,"be good at, skillful",yes,N5
+N5,ドア,ドア,door (Western style),yes,N5
+N5,歯,は,tooth,yes,N5
+N5,橋,はし,bridge,yes,N5
+N5,動く,うごく,to move,yes,N4
+N5,ケーキ,ケーキ,cake,yes,N4
+N5,コンビニ,コンビニ,convenience store,no,
+N5,甘い,あまい,"generous, sweet",yes,N5
+N5,鍵,かぎ,a lock; a key,yes,N3
+N5,去年,きょねん,last year,yes,N5
+N5,とっても,とっても,"very, really",no,
+N5,豚; ブタ,ぶた,pig,no,
+N5,今夜,こんや,"this evening, tonight",yes,N4
+N5,空港,くうこう,airport,yes,N4
+N5,ご飯; 御飯,ごはん,cooked rice; meal,yes,N5
+N5,クリスマス,クリスマス,Christmas,yes,N3
+N5,会う,あう,"to meet, to see",yes,N5
+N5,かっこいい; カッコイイ,かっこいい,"cool, stylish, good-looking",no,
+N5,赤ちゃん,あかちゃん,"baby, infant",yes,N1
+N5,虫,むし,insect,yes,N4
+N5,九,きゅう; く,nine,yes,N5
+N5,困る,こまる,"to be bothered, to have difficulty",yes,N5
+N5,匹,ひき,counter for small animals,yes,N1
+N5,真面目,まじめ,"diligent, serious",yes,N3
+N5,九日,ここのか,nine days; ninth day of the month,yes,N5
+N5,コピー,コピー,to copy,yes,N3
+N5,寒い,さむい,cold (in reference to weather),yes,N5
+N5,白い,しろい,white,yes,N5
+N5,頼む,たのむ,"to request, to ask (a favor)",yes,N5
+N5,天気,てんき,weather,yes,N5
+N5,暇,ひま,"free time, leisure",yes,N5
+N5,向こう,むこう,"beyond, over there",yes,N5
+N5,九時,くじ,9 o'clock,no,
+N5,どうもありがとうございます,どうもありがとうございます,thank you very much,no,
+N5,赤い,あかい,red,yes,N5
+N5,起きる,おきる,"to get up (e.g., from sleeping); to happen",yes,N5
+N5,教室,きょうしつ,classroom,yes,N5
+N5,今週,こんしゅう,this week,yes,N5
+N5,食べ物,たべもの,food,yes,N5
+N5,ポスト,ポスト,"mailbox; post, position",yes,N5
+N5,両親,りょうしん,"parents, both parents",yes,N5
+N5,ありがと,ありがと,thanks (casual),no,
+N5,一時,いちじ,"one o'clock; for a while, temporarily",yes,N3
+N5,忙しい,いそがしい,"busy (people, days)",yes,N5
+N5,売る,うる,to sell,yes,N5
+N5,遅い,おそい,slow; (to be) late,yes,N5
+N5,買い物,かいもの,shopping,yes,N5
+N5,時計,とけい,a watch; a clock,yes,N5
+N5,荷物,にもつ,luggage; baggage,yes,N5
+N5,起こる,おこる,"to occur, to happen",yes,N3
+N5,たばこ; タバコ,たばこ,"tobacco, cigarette",yes,N5
+N5,手紙,てがみ,letter,yes,N5
+N5,昼,ひる,"noon, daytime",yes,N5
+N5,文章,ぶんしょう,"sentence, text",yes,N5
+N5,辺,へん,"area, vicinity",yes,N5
+N5,パパ,パパ,"papa, daddy",no,
+N5,送る,おくる,"to send, to dispatch",yes,N4
+N5,四十五分,よんじゅうごふん,forty-five minutes; :45 (time),no,
+N5,財布,さいふ,wallet,yes,N5
+N5,ピンク,ピンク,pink,yes,N2
+N5,背中,せなか,back (of body),yes,N4
+N5,十九,じゅうきゅう,"nineteen, 19",no,
+N5,九十,きゅうじゅう,"ninety, 90",no,
+N5,置く,おく,to put; to lay; to place,yes,N5
+N5,男の子,おとこのこ,boy,yes,N5
+N5,地図,ちず,a map,yes,N5
+N5,乗る,のる,"to get on, to ride in, to board",yes,N5
+N5,プール,プール,swimming pool,yes,N5
+N5,おる,おる,to be; to exist (humble),yes,N3
+N5,お茶,おちゃ,(green) tea,yes,N5
+N5,来年,らいねん,next year,yes,N5
+N5,上がる,あがる,"to rise, to go up",yes,N1
+N5,笑う,わらう,"to laugh, to smile",yes,N4
+N5,ほら,ほら,"look, see, told you so",no,
+N5,再来年; さ来年,さらいねん,the year after next,yes,N5
+N5,ギター,ギター,guitar,yes,N5
+N5,さあ,さあ,"come now, well",yes,N5
+N5,静か,しずか,"quiet, calm",yes,N5
+N5,短い,みじかい,short (length),yes,N5
+N5,メートル,メートル,"suffix: meter(s), after a number (e.g. 5メートル)",yes,N5
+N5,落ちる; 落る,おちる,to fall,yes,N4
+N5,上げる,あげる,"to raise, to lift",yes,N5
+N5,医者,いしゃ,doctor; physician,yes,N5
+N5,走る,はしる,to run,yes,N5
+N5,神様,かみさま,god,yes,N2
+N5,お姉さん,おねえさん,older sister (formal),yes,N5
+N5,おやすみ,おやすみ,good night (casual),yes,N2
+N5,冊,さつ,counter for books,yes,N1
+N5,時々,ときどき,sometimes,yes,N5
+N5,ノート,ノート,notebook,yes,N5
+N5,下手,へた,"unskillful, poor",yes,N5
+N5,ペット,ペット,pet,yes,N5
+N5,ポケット,ポケット,pocket,yes,N5
+N5,見せる,みせる,"to show, to display",yes,N5
+N5,チーズ,チーズ,cheese,yes,N3
+N5,大分,だいぶ; だいぶん,"considerably, a lot, greatly",yes,N4
+N5,あそこ,あそこ,"there, over there, that place",yes,N5
+N5,危ない,あぶない,"dangerous, critical",yes,N5
+N5,重い,おもい,heavy; serious,yes,N5
+N5,黒い,くろい,black; dark,yes,N5
+N5,住む,すむ,"to reside, to live in",yes,N5
+N5,図書館,としょかん,library,yes,N5
+N5,レストラン,レストラン,restaurant,yes,N5
+N5,油,あぶら,oil,yes,N3
+N5,遠く,とおく,"far away, distant",yes,N4
+N5,にこにこ; ニコニコ,にこにこ,smiling happily,yes,N2
+N5,開く,あく; ひらく,"to open, to become open (あく); to open, to hold an event (ひらく)",yes,N5
+N5,熱い,あつい,hot (objects),yes,N5
+N5,散歩,さんぽ,"walk, stroll",yes,N5
+N5,遠い,とおい,"far (away), distant",yes,N5
+N5,飛行機,ひこうき,airplane,yes,N5
+N5,門,もん,gate,yes,N5
+N5,羽; 羽根,はね,feather; wing,yes,N3
+N5,もう一度,もういちど,"once more, again",yes,N5
+N5,立つ,たつ,to stand up,yes,N5
+N5,毎週,まいしゅう,every week,yes,N5
+N5,お世話,おせわ,"care, looking after",no,
+N5,寿司,すし,sushi,no,
+N5,暑い,あつい,"hot (in reference to weather), warm",yes,N5
+N5,歩く,あるく,to walk,yes,N5
+N5,うるさい,うるさい,noisy; annoying,yes,N5
+N5,漢字,かんじ,kanji; Chinese character,yes,N5
+N5,洗濯,せんたく,"washing, laundry",yes,N5
+N5,テーブル,テーブル,table,yes,N5
+N5,晩,ばん,evening,yes,N5
+N5,待つ,まつ,to wait,yes,N5
+N5,お客さん,おきゃくさん,"customer, guest",no,
+N5,もうすぐ,もうすぐ,"soon, before long",yes,N4
+N5,池,いけ,pond,yes,N5
+N5,お弁当,おべんとう,a boxed lunch,yes,N5
+N5,タクシー,タクシー,taxi,yes,N5
+N5,生まれる,うまれる,to be born,yes,N5
+N5,コート,コート,"coat; court (e.g., tennis)",yes,N5
+N5,先週,せんしゅう,last week,yes,N5
+N5,お菓子,おかし,"confections, sweets, snack",yes,N5
+N5,軽い,かるい,"light, non-serious, minor",yes,N5
+N5,椅子,いす,chair,yes,N3
+N5,階段,かいだん,stairs,yes,N5
+N5,汚い,きたない,"dirty, unclean, filthy",yes,N5
+N5,切る,きる,to cut; to hang up (a phone),yes,N5
+N5,背,せい,"(one's) height, stature",yes,N5
+N5,広い,ひろい,spacious; wide; broad,yes,N5
+N5,ペン,ペン,pen,yes,N5
+N5,マッチ,マッチ,match,yes,N5
+N5,うどん,うどん,udon noodles (Japanese traditional noodles),yes,N2
+N5,猿,さる,monkey,yes,N3
+N5,日曜,にちよう,Sunday (abbreviated),yes,N3
+N5,お父さん,おとうさん,father (formal),yes,N5
+N5,いかが,いかが,"how, in what way",yes,N5
+N5,今月,こんげつ,this month,yes,N5
+N5,テープ,テープ,tape,yes,N5
+N5,日曜日,にちようび,Sunday,yes,N5
+N5,庭,にわ,garden,yes,N5
+N5,引く,ひく,"to pull, to draw; subtract",yes,N5
+N5,来週,らいしゅう,next week,yes,N5
+N5,紫,むらさき,"purple color, violet",yes,N2
+N5,いらっしゃい,いらっしゃい,welcome,yes,N3
+N5,青い,あおい,blue,yes,N5
+N5,歌う,うたう,to sing,yes,N5
+N5,丁寧,ていねい,"polite, courteous, careful",yes,N4
+N5,奥さん,おくさん,(someone else's) wife,yes,N5
+N5,消す,けす,"to erase, to delete, to turn off power",yes,N5
+N5,シャワー,シャワー,shower,yes,N5
+N5,土曜日,どようび,Saturday,yes,N5
+N5,毎月,まいげつ; まいつき,"every month, monthly",yes,N5
+N5,夕方,ゆうがた,"late afternoon (typically just before dinner time), evening",yes,N5
+N5,オレンジ,オレンジ,orange (fruit/color),yes,N1
+N5,お兄さん,おにいさん,(someone else's) older brother (formal),yes,N5
+N5,あっち,あっち,over there,yes,N5
+N5,アパート,アパート,"apartment, flat",yes,N5
+N5,風邪,かぜ,"cold, flu",yes,N5
+N5,遊ぶ,あそぶ,to play; to spend time pleasantly; to hang out,yes,N5
+N5,薄い,うすい,"thin, weak",yes,N5
+N5,教える,おしえる,"to teach, to inform, to instruct",yes,N5
+N5,消える,きえる,"to vanish, to disappear",yes,N5
+N5,帽子,ぼうし,hat; cap,yes,N5
+N5,真ん中; 真中,まんなか,the very middle; center,yes,N4
+N5,スカート,スカート,skirt,yes,N5
+N5,今朝,けさ,this morning,yes,N5
+N5,たて,たて,"length, height",yes,N5
+N5,まずい; マズい; マズイ; 不味い,まずい,"bad-tasting; bad, awkward (situation)",yes,N5
+N5,忘れる,わすれる,to forget,yes,N5
+N5,いらいら; イライラ,いらいら,"irritated, annoyed, on edge",yes,N3
+N5,返す,かえす,to return something,yes,N5
+N5,机,つくえ,desk,yes,N5
+N5,こんばんは,こんばんは,good evening,yes,N2
+N5,金曜日,きんようび,Friday,yes,N5
+N5,狭い,せまい,narrow; not spacious,yes,N5
+N5,飛ぶ,とぶ,"to fly, to hop",yes,N5
+N5,かたかな; 片仮名,かたかな,katakana,yes,N2
+N5,ジュース,ジュース,"juice, soft drink; deuce",yes,N3
+N5,かわいそう; 可哀想; 可哀相; 可愛そう,かわいそう,"poor, pitiable, pathetic; poor thing",yes,N3
+N5,お皿,おさら,"plate, dish",yes,N5
+N5,地下鉄,ちかてつ,"underground train, subway",yes,N5
+N5,ばあちゃん,ばあちゃん,grandma (casual),no,
+N5,クマ,クマ,bear (animal),no,
+N5,明るい,あかるい,bright (in reference to personality or weather); cheerful,yes,N1
+N5,黄色,きいろ,yellow,yes,N5
+N5,暗い,くらい,"dark, gloomy",yes,N5
+N5,月曜日,げつようび,Monday,yes,N5
+N5,冷たい,つめたい,"cold (things, people)",yes,N5
+N5,夏休み,なつやすみ,summer vacation,yes,N5
+N5,晴れ,はれ,clear (sunny) weather,yes,N5
+N5,フィルム,フィルム,film (roll of),yes,N5
+N5,土曜,どよう,Saturday (short for 土曜日),yes,N3
+N5,金曜,きんよう,Friday (short for 金曜日),yes,N3
+N5,わくわく; ワクワク,わくわく,"excited, thrilled",no,
+N5,チョコレート,チョコレート,chocolate,no,
+N5,答える,こたえる,"to answer, to reply",yes,N5
+N5,砂糖,さとう,sugar,yes,N5
+N5,それでは,それでは,"in that situation, well then...",yes,N5
+N5,戸,と,door (Japanese style),yes,N5
+N5,ぴったり; ピッタリ,ぴったり,exactly; a perfect fit,yes,N3
+N5,着る,きる,to put on (clothes above your waist); to wear,yes,N5
+N5,醤油,しょうゆ,soy sauce,yes,N2
+N5,そちら,そちら,over there,yes,N5
+N5,それから,それから,"and then, after that",yes,N5
+N5,月曜,げつよう,Monday,yes,N3
+N5,朝ごはん; 朝御飯,あさごはん,breakfast,yes,N5
+N5,ライオン,ライオン,lion,no,
+N5,警官,けいかん,police officer,yes,N5
+N5,冷蔵庫,れいぞうこ,refrigerator,yes,N5
+N5,トマト,トマト,tomato,no,
+N5,大勢,おおぜい,great number of people,yes,N5
+N5,飲み物,のみもの,"drink, beverage",yes,N5
+N5,レコード,レコード,record,yes,N5
+N5,もしも,もしも,if,yes,N3
+N5,センチ,センチ,counter for centimeters,yes,N2
+N5,郵便局,ゆうびんきょく,post office,yes,N5
+N5,兄ちゃん,にいちゃん,big bro,no,
+N5,撮る,とる,"to take (a photo), to make (a film)",yes,N5
+N5,眼鏡,めがね,eye glasses,yes,N5
+N5,いいえ,いいえ,"no, not at all",yes,N5
+N5,押す,おす,"to push, to press, to stamp (e.g., a passport)",yes,N5
+N5,傘,かさ,"umbrella, parasol",yes,N5
+N5,出口,でぐち,an exit,yes,N5
+N5,並ぶ,ならぶ,"to line up, to stand in a line",yes,N5
+N5,ティー,ティー,tea; the letter T,no,
+N5,泣く,なく,to cry,yes,N4
+N5,バナナ,バナナ,banana,no,
+N5,牛乳,ぎゅうにゅう,milk,yes,N5
+N5,速い,はやい,"fast, quick",yes,N5
+N5,すっきり; スッキリ,すっきり,"refreshed; neat, clear, uncluttered",yes,N2
+N5,玄関,げんかん,entrance (to a house or a building),yes,N5
+N5,レモン,レモン,lemon,no,
+N5,怒る,おこる,to get angry; to scold angrily,yes,N4
+N5,そうですね,そうですね,"that's right, I see, indeed",no,
+N5,エレベーター,エレベーター,elevator,yes,N5
+N5,ズボン,ズボン,trousers,yes,N5
+N5,どきどき; ドキドキ,どきどき,heart pounding (from nerves or excitement),yes,N2
+N5,食堂,しょくどう,"cafeteria, dining hall",yes,N5
+N5,丁度,ちょうど,"just, right, exactly",yes,N5
+N5,ナイフ,ナイフ,knife,yes,N5
+N5,バター,バター,butter,yes,N5
+N5,零,れい,"zero, nought",yes,N5
+N5,お姉ちゃん,おねえちゃん,older sister (casual/affectionate),no,
+N5,祖父,そふ,grandfather,yes,N4
+N5,豆腐,とうふ,tofu,no,
+N5,パスタ,パスタ,pasta,no,
+N5,聴く,きく,"to listen (carefully, e.g. to music)",no,
+N5,開ける,あける,to open (something),yes,N5
+N5,覚える,おぼえる,"to learn, to commit to memory, to remember, to memorize",yes,N5
+N5,余り,あまり,not very; surplus,yes,N3
+N5,カレンダー,カレンダー,calendar,yes,N5
+N5,先月,せんげつ,last month,yes,N5
+N5,つまらない,つまらない,"boring, dull; insignificant",yes,N5
+N5,三つ,みっつ,three things,yes,N5
+N5,洋服,ようふく,Western-style clothes,yes,N5
+N5,どなた,どなた,who,yes,N5
+N5,昼ごはん; 昼御飯,ひるごはん,lunch,yes,N5
+N5,祖母,そぼ,grandmother,yes,N4
+N5,直す,なおす,"to correct, to fix",yes,N4
+N5,親切,しんせつ,kindness,yes,N4
+N5,暖かい,あたたかい,warm,yes,N5
+N5,紅茶,こうちゃ,black tea,yes,N5
+N5,大使館,たいしかん,embassy,yes,N5
+N5,右手,みぎて,right hand,no,
+N5,ハム,ハム,ham,no,
+N5,入り口; 入口,いりぐち,"entrance, entry",yes,N5
+N5,渡す,わたす,to hand over; to get across,yes,N5
+N5,渡る,わたる,"to cross over, to go across",yes,N5
+N5,ただいま,ただいま,"Here I am, I'm home!",no,
+N5,下がる,さがる,"to step back, to retreat",yes,N1
+N5,火曜日,かようび,Tuesday,yes,N5
+N5,水曜日,すいようび,Wednesday,yes,N5
+N5,はじめまして; 初めまして,はじめまして,nice to meet you (set phrase),yes,N2
+N5,右側,みぎがわ,right side,no,
+N5,止まる,とまる,to come to a halt,yes,N5
+N5,晩ごはん; 晩御飯,ばんごはん,"dinner, evening meal",yes,N5
+N5,お昼,おひる,"lunch, noon",yes,N3
+N5,かばん; カバン,かばん,"bag, briefcase",yes,N5
+N5,宿題,しゅくだい,homework,yes,N5
+N5,おにぎり,おにぎり,rice ball,no,
+N5,細い,ほそい,"thin, slender, fine",yes,N5
+N5,休む,やすむ,"to rest, to have a break, to get time off",yes,N5
+N5,昨夜,ゆうべ,last night,yes,N5
+N5,リンゴ,リンゴ,apple,no,
+N5,着く,つく,"to arrive at, to reach",yes,N5
+N5,辞書,じしょ,dictionary,yes,N5
+N5,降る,ふる,"to precipitate, to fall (e.g., rain, snow, etc.)",yes,N5
+N5,左側,ひだりがわ,left side,no,
+N5,靴下,くつした,socks,yes,N5
+N5,交差点,こうさてん,intersection,yes,N5
+N5,ハロー,ハロー,hello,no,
+N5,不便,ふべん,inconvenience,yes,N4
+N5,吸う,すう,"to breathe in, to suck",yes,N5
+N5,木曜日,もくようび,Thursday,yes,N5
+N5,来月,らいげつ,next month,yes,N5
+N5,くださる; 下さる,くださる,to give (polite); to kindly do,yes,N3
+N5,出かける,でかける,to go out; to depart,yes,N5
+N5,ええと; えと,ええと; えと,"let me see, well, er...",yes,N2
+N5,洗う,あらう,to wash,yes,N5
+N5,大嫌い,だいきらい,"to strongly dislike, to hate",no,
+N5,疲れる,つかれる,to get (become) tired; to become fatigued,yes,N5
+N5,温かい,あたたかい,warm,no,
+N5,みかん; ミカン,みかん,"mandarin orange, tangerine",no,
+N5,ポテト,ポテト,potato,no,
+N5,毎朝,まいあさ,every morning,yes,N5
+N5,黄色い,きいろい,yellow,yes,N5
+N5,座る,すわる,to sit,yes,N5
+N5,茶色,ちゃいろ,brown,yes,N5
+N5,貼る,はる,to post; to paste; to attach,yes,N5
+N5,毎晩,まいばん,every night,yes,N5
+N5,曜日,ようび,day of the week,yes,N3
+N5,象; ゾウ,ぞう,elephant,yes,N3
+N5,おやすみなさい,おやすみなさい,good night,no,
+N5,ネクタイ,ネクタイ,"tie, necktie",yes,N5
+N5,フォーク,フォーク,fork,yes,N5
+N5,太い,ふとい,"fat, thick",yes,N5
+N5,グラム,グラム,"suffix: gram(s), as in 100グラム",yes,N5
+N5,留学生,りゅうがくせい,international student,yes,N5
+N5,オッケー; オーケー,オッケー; オーケー,okay,yes,N1
+N5,木曜,もくよう,Thursday (short for 木曜日),yes,N3
+N5,灰色,はいいろ,"grey, ashen",yes,N2
+N5,キャベツ,キャベツ,cabbage,no,
+N5,借りる,かりる,"to borrow, to owe",yes,N5
+N5,喫茶店,きっさてん,café,yes,N5
+N5,咲く,さく,to bloom,yes,N5
+N5,まっすぐ; 真っすぐ,まっすぐ,"straight, direct, honest",yes,N5
+N5,ふーん,ふーん,hmm (noncommittal / mildly skeptical interjection),no,
+N5,果物,くだもの,fruit,yes,N5
+N5,コップ,コップ,a tumbler; a glass,yes,N5
+N5,水曜,すいよう,Wednesday,yes,N2
+N5,火曜,かよう,Tuesday (abbreviated),yes,N3
+N5,さようなら,さようなら,good-bye,yes,N2
+N5,箸,はし,chopsticks,yes,N2
+N5,ソファ; ソファー,ソファ; ソファー,"sofa, couch",yes,N3
+N5,兎,うさぎ,"rabbit, hare",yes,N3
+N5,降りる,おりる,to get off,yes,N5
+N5,曇り,くもり,"cloudiness, cloudy weather",yes,N5
+N5,台所,だいどころ,kitchen,yes,N5
+N5,廊下,ろうか,corridor,yes,N5
+N5,母さん,かあさん,"mom, mother",no,
+N5,眠い,ねむい,"sleepy, drowsy",yes,N4
+N5,味噌汁; みそ汁,みそしる,miso soup,no,
+N5,あちら,あちら,that way; over there (polite),yes,N5
+N5,飴,あめ,(hard) candy,yes,N5
+N5,涼しい,すずしい,"cool, refreshing (in reference to weather)",yes,N5
+N5,吹く,ふく,"to blow (wind, etc.)",yes,N5
+N5,イチゴ,イチゴ,strawberry,no,
+N5,治す,なおす,"to cure, to heal",yes,N2
+N5,差す; さす,さす,"to raise (stretch out) hands, to raise (e.g., umbrella)",yes,N5
+N5,登る,のぼる,to climb,yes,N5
+N5,夕飯,ゆうはん,"dinner, supper, evening meal",yes,N5
+N5,行ってらっしゃい,いってらっしゃい,"have a nice day, see you",yes,N2
+N5,アイスクリーム,アイスクリーム,ice cream,yes,N3
+N5,切手,きって,postal (postage) stamps,yes,N5
+N5,スプーン,スプーン,spoon,yes,N5
+N5,今晩,こんばん,"tonight, this evening",yes,N5
+N5,いやあ,いやあ,well...; oh (drawn-out hesitation / reaction),no,
+N5,かぶる; 被る,かぶる,to wear; to be covered with,yes,N3
+N5,牛肉,ぎゅうにく,beef,yes,N5
+N5,封筒,ふうとう,envelope,yes,N5
+N5,五月,ごがつ,May,no,
+N5,どういたしまして,どういたしまして,"you're welcome, not at all",no,
+N5,ぶどう; ブドウ,ぶどう,grape,yes,N4
+N5,はく,はく,to put on (items below your waist),yes,N5
+N5,おっしゃる; 仰る,おっしゃる,to say (honorific),yes,N4
+N5,浴びる,あびる,"to bathe, to shower",yes,N3
+N5,要る,いる,to need,yes,N5
+N5,上着,うわぎ,"coat, jacket",yes,N5
+N5,鉛筆,えんぴつ,pencil,yes,N5
+N5,切符,きっぷ,a ticket,yes,N5
+N5,厚い,あつい,"thick (book, wall, etc.)",yes,N5
+N5,デパート,デパート,department store,yes,N5
+N5,豚肉,ぶたにく,pork,yes,N5
+N5,玉ねぎ,たまねぎ,onion,no,
+N5,弾く,ひく; はじく,"to play (piano, string instrument) (ひく); to flick, repel (はじく)",yes,N5
+N5,丸い; 円い,まるい,"round, circular",yes,N5
+N5,スイカ,スイカ,watermelon,no,
+N5,石鹸,せっけん,soap,yes,N2
+N5,でっかい,でっかい,"huge, big (casual)",no,
+N5,段々,だんだん,"gradually, by degrees",yes,N1
+N5,天ぷら,てんぷら,tempura (battered and fried food),no,
+N5,明後日,あさって; みょうごにち,day after tomorrow,yes,N3
+N5,作文,さくぶん,essay; composition,yes,N5
+N5,セーター,セーター,sweater,yes,N5
+N5,並べる,ならべる,to put (things) side by side; to line up,yes,N5
+N5,脱ぐ,ぬぐ,to take off (clothes),yes,N5
+N5,キロメートル,キロメートル,kilometer,yes,N5
+N5,一昨日,おととい; いっさくじつ,the day before yesterday,yes,N5
+N5,貸す,かす,to lend,yes,N5
+N5,へえ,へえ,"oh, wow, really? (mild surprise)",no,
+N5,はまる; ハマる,はまる,"to fit, to go into; to get hooked on",yes,N1
+N5,ラジカセ; ラジオカセット,ラジカセ; ラジオカセット,radio cassette player,yes,N5
+N5,丈夫,じょうぶ,"strong, solid, durable",yes,N5
+N5,本棚,ほんだな,bookshelf,yes,N5
+N5,ううん,ううん,"no, nope (casual negation interjection)",no,
+N5,父さん,とうさん,"father, dad",no,
+N5,七つ,ななつ,seven things,yes,N5
+N5,四つ,よっつ,four things,yes,N5
+N5,磨く,みがく,to brush (teeth); to polish,yes,N5
+N5,あったかい,あったかい,warm (casual),no,
+N5,泳ぐ,およぐ,to swim,yes,N5
+N5,ハンカチ,ハンカチ,handkerchief,yes,N5
+N5,飼う,かう,to keep; to own (a pet); to raise; to feed,yes,N3
+N5,おじいさん,おじいさん,"grandfather, male senior citizen",yes,N5
+N5,苦い,にがい,bitter,yes,N4
+N5,ボールペン,ボールペン,ball-point pen,yes,N5
+N5,伯父さん; 叔父さん,おじさん,uncle,yes,N5
+N5,もしもし,もしもし,Hello? (used on the phone),no,
+N5,じゃがいも,じゃがいも,potato,no,
+N5,閉める; しめる,しめる,"to close, to shut",yes,N5
+N5,賑やか; にぎやか,にぎやか,"lively, bustling, busy",yes,N5
+N5,交番,こうばん,police box,yes,N5
+N5,ストーブ,ストーブ,"heater, stove",yes,N5
+N5,ごちそうさまでした,ごちそうさまでした,thank you for the meal (after eating),no,
+N5,ごちそうさま,ごちそうさま,Thank you for the meal,yes,N2
+N5,きゅうり,きゅうり,cucumber,no,
+N5,一昨年; おととし,おととし; いっさくねん,the year before last,yes,N5
+N5,にんじん; ニンジン,にんじん,carrot,no,
+N5,三月,さんがつ,March,no,
+N5,おんなじ,おんなじ,the same (casual),no,
+N5,四月,しがつ,April,no,
+N5,鳴く,なく,to make sound (animal),yes,N5
+N5,曲がる; 曲る,まがる,"to bend, curve, turn; also in context: to be bendable",yes,N5
+N5,お手洗い,おてあらい,"toilet, restroom, bathroom",yes,N5
+N5,おばあさん,おばあさん,"grandmother, female senior-citizen",yes,N5
+N5,鼠,ねずみ,"mouse, rat",yes,N3
+N5,八つ,やっつ,eight things,yes,N5
+N5,茶碗,ちゃわん,rice bowl,yes,N2
+N5,晴れる,はれる,to be sunny,yes,N5
+N5,何時,なんじ,what time; also いつ when read differently,yes,N1
+N5,一月,ひとつき; いちがつ,January (いちがつ); one month (ひとつき),yes,N5
+N5,無くす,なくす,to lose something,yes,N5
+N5,灰皿,はいざら,ashtray,yes,N5
+N5,勤める,つとめる,to work (for),yes,N5
+N5,習う,ならう,to learn,yes,N5
+N5,消しゴム,けしゴム,eraser,yes,N4
+N5,おかえりなさい,おかえりなさい,welcome home,no,
+N5,八月,はちがつ,August,no,
+N5,五つ,いつつ,five things,yes,N5
+N5,おまわりさん,おまわりさん,policeman (friendly term),yes,N5
+N5,締める,しめる,"to tie, to fasten, to tighten",yes,N5
+N5,ワイシャツ,ワイシャツ,"dress shirt, business shirt",yes,N5
+N5,二月,にがつ,February,no,
+N5,平仮名,ひらがな,hiragana,yes,N2
+N5,九月,くがつ,September,no,
+N5,花瓶,かびん,(flower) vase,yes,N5
+N5,万年筆,まんねんひつ,fountain pen,yes,N5
+N5,六つ,むっつ,six things,yes,N5
+N5,六月,ろくがつ,June,no,
+N5,夕べ,ゆうべ,"last night, yesterday evening",yes,N3
+N5,グー,グー,rock (in rock-paper-scissors); also excellent (slang),no,
+N5,茶色い,ちゃいろい,brown,yes,N2
+N5,七月,しちがつ,July,no,
+N5,下りる,おりる,"to get down, to go; come down",yes,N4
+N5,閉まる,しまる,"to close, to be closed",yes,N5
+N5,葉書,はがき,postcard,yes,N5
+N5,十月,じゅうがつ,October,no,
+N5,八百屋,やおや,greengrocer,yes,N5
+N5,りっぱ,りっぱ,"splendid, fine",yes,N5
+N5,背広,せびろ,men's suit,yes,N5
+N5,キログラム,キログラム,kilogram,yes,N5
+N5,十二月,じゅうにがつ,December,no,
+N5,十一月,じゅういちがつ,November,no,
+N5,九つ,ここのつ,nine things,yes,N5
+N5,テープレコーダー,テープレコーダー,tape recorder,yes,N5
+N5,伯母さん; 叔母さん,おばさん,aunt,yes,N5
+N5,易しい,やさしい,"easy, plain, simple",yes,N5
+N5,曇る,くもる,"to become cloudy, to become dim",yes,N5
+N5,お父ちゃん; おとうちゃん,おとうちゃん,"dad, daddy (casual)",no,
+N5,温い,ぬるい,lukewarm,yes,N5
+N5,三時,さんじ,3 o'clock,no,

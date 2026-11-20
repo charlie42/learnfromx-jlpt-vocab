@@ -1,0 +1,1490 @@
+﻿level,kanji,reading,meaning,in_waller,waller_level
+N4,そうそう,そうそう,"that's right, exactly (agreement interjection)",no,
+N4,何人,なんにん,how many people,no,
+N4,何人も,なんにんも,"many people, any number of people",no,
+N4,何日も,なんにちも,"for many days, day after day",no,
+N4,気がする,きがする,to have a feeling that,no,
+N4,何年も,なんねんも,"for many years, year after year",no,
+N4,みたい,みたい,"looks like, seems like",no,
+N4,何時間も,なんじかんも,"for many hours, hour after hour",no,
+N4,一日中,いちにちじゅう,"all day long, throughout the day",no,
+N4,数人,すうにん,"several people, a few people",no,
+N4,しか,しか,"particle: only, nothing but (used with a negative verb)",no,
+N4,ありえない,ありえない,impossible; unbelievable,no,
+N4,思い,おもい,"thought, feeling, wish",no,
+N4,何回も,なんかいも,"many times, repeatedly",no,
+N4,一回,いっかい,once; one time,no,
+N4,何万,なんまん,"tens of thousands, how many tens of thousands",no,
+N4,感じ方,かんじかた,"way of feeling, how one feels",no,
+N4,仕事中,しごとちゅう,"while working, in the middle of work",no,
+N4,一本,いっぽん,"one (long, thin thing)",no,
+N4,あ,あ,Ah,yes,N4
+N4,回目,かいめ,"nth time (1st time, 2nd time...)",no,
+N4,一度,いちど,"once, one time",yes,N4
+N4,ほど; 程,ほど,"degree, extent; about (10分ほど = about 10 minutes)",yes,N3
+N4,しまった,しまった,"oh no!, drat! (exclamation of mishap)",yes,N3
+N4,何度も,なんども,"many times, over and over, time and again",no,
+N4,多く,おおく,"many, much; most",no,
+N4,時代,じだい,"age, period, epoch, era",yes,N4
+N4,数万,すうまん,"tens of thousands, several tens of thousands",no,
+N4,アメリカ,アメリカ,"America, U.S.A.",yes,N4
+N4,代,だい,"age, generation; period (二十代 = in one's twenties)",yes,N1
+N4,少しも,すこしも,"(not) at all, (not) even a little",yes,N3
+N4,高,たか,"amount, quantity, extent",yes,N1
+N4,何歳,なんさい,"how old, what age",no,
+N4,サイト,サイト,website,no,
+N4,無料,むりょう,"free, no charge",yes,N3
+N4,版,はん,edition,yes,N1
+N4,神,かみ,god,yes,N3
+N4,等,など,"et cetera, and so on",yes,N3
+N4,別,べつ,"distinction, different",yes,N4
+N4,場所,ばしょ,"place, location",yes,N4
+N4,最後,さいご,"last, end",yes,N4
+N4,部,ぶ,"division, section, part; counter for copies",yes,N1
+N4,高さ,たかさ,"height, altitude, level",no,
+N4,年生,ねんせい,year (in school); as in 一年生 (first-year student),yes,N1
+N4,最後に,さいごに,"finally, lastly, at the end",no,
+N4,元,もと,"origin, original; former",yes,N3
+N4,おやつ,おやつ,"between meal snack, afternoon refreshment",yes,N2
+N4,点,てん,"mark, score, grade; point, dot",yes,N4
+N4,社会,しゃかい,society,yes,N4
+N4,僕たち,ぼくたち,we (masculine),no,
+N4,食べ方,たべかた,"way of eating, how to eat",no,
+N4,最初,さいしょ,"beginning, first",yes,N4
+N4,相手,あいて,partner; addressee; the person you are talking to,yes,N3
+N4,何十,なんじゅう,"tens of, several dozen",no,
+N4,作品,さくひん,"work, opus, production",yes,N3
+N4,動画,どうが,video; moving image; animation,no,
+N4,型,かた,"mold, model, style",yes,N3
+N4,初めに; 始めに,はじめに,"to begin with, first of all",yes,N2
+N4,漫画,まんが,"comic (book), cartoon",yes,N4
+N4,無理,むり,"unreasonable, impossible",yes,N4
+N4,利用,りよう,"use, utilization",yes,N4
+N4,はず,はず,it should be so,yes,N4
+N4,曲,きょく,piece of music; song,yes,N1
+N4,らしい,らしい,"after a word: it seems, I hear; typical of, -like (e.g. 男らしい)",no,
+N4,企業,きぎょう,"industry, business, undertaking",yes,N3
+N4,存在,そんざい,"existence, being",yes,N3
+N4,現在,げんざい,"now (same as 今 (いま)), present, current",yes,N3
+N4,以外,いがい,"other than, with the exception of, excepting",yes,N4
+N4,通り,とおり,"suffix: street, avenue",yes,N3
+N4,普通,ふつう,common; usual,yes,N4
+N4,事件,じけん,"event, affair, incident",yes,N3
+N4,この頃,このごろ,"these days, nowadays",yes,N1
+N4,得,とく,"gain, benefit, advantage",no,
+N4,つい,つい,without meaning to; just (now),no,
+N4,女子,じょし,"woman, girl",yes,N3
+N4,最高,さいこう,"highest, supreme, the most",yes,N3
+N4,状態,じょうたい,"condition, situation",yes,N3
+N4,画像,がぞう,image; picture; graphic,no,
+N4,発売,はつばい,"release, launch (of a product); putting on sale",yes,N2
+N4,絶対,ぜったい,"definitely, without fail, absoluteness",yes,N3
+N4,その頃; そのころ,そのころ,"at that time, in those days",yes,N2
+N4,確認,かくにん,"to confirm, to check, to verify",yes,N3
+N4,まあ; まぁ,まあ; まぁ,well (used when making a modest or hesitant statement),yes,N3
+N4,中国,ちゅうごく,China,no,
+N4,実際,じっさい,in fact; in actuality,yes,N3
+N4,今回,こんかい,"now, this time, lately",yes,N3
+N4,なし; 無し,なし,without; none,yes,N3
+N4,個人,こじん,"individual, private person",yes,N3
+N4,教え,おしえ,"teachings, doctrine",yes,N1
+N4,機,き,machine,yes,N1
+N4,法,ほう,"law; method, way",yes,N3
+N4,生活,せいかつ,"living, life; to live",yes,N4
+N4,場,ば,"place, spot, occasion",yes,N3
+N4,数十,すうじゅう,"several tens, dozens",no,
+N4,区,く,"ward, district",yes,N1
+N4,理解,りかい,"understanding, comprehension",yes,N3
+N4,十万,じゅうまん,"one hundred thousand, 100,000",no,
+N4,人気,にんき; ひとけ,"popularity (にんき); sign of people, presence of people (ひとけ)",yes,N3
+N4,公開,こうかい,opening to the public; release,yes,N1
+N4,放送,ほうそう,broadcasting,yes,N3
+N4,すべて; 全て,すべて,"all, the whole, entirely",yes,N3
+N4,内容,ないよう,"subject, contents, detail",yes,N3
+N4,活動,かつどう,"action, activity",yes,N3
+N4,登場,とうじょう,entry (on stage),yes,N2
+N4,さらに; 更に,さらに,"furthermore, moreover",yes,N3
+N4,技術,ぎじゅつ,"technique, technology, skill",yes,N4
+N4,特に,とくに,particularly,yes,N4
+N4,説明,せつめい,explanation,yes,N4
+N4,研究,けんきゅう,"study, research, investigation",yes,N4
+N4,ネット,ネット,internet; net,no,
+N4,ったく,ったく,jeez / good grief,no,
+N4,完全,かんぜん,"perfection, completeness",yes,N3
+N4,式,しき,"suffix: -style, type, as in 日本式 (Japanese-style); also ceremony (e.g. 卒業式)",yes,N3
+N4,ばかり,ばかり,"particle: only, nothing but; (after a past verb) have just done, as in 食べたばかり",no,
+N4,番目,ばんめ,ordinal suffix (第一番目 = first),yes,N1
+N4,発表,はっぴょう,announcement; publication; presentation,yes,N3
+N4,教え方,おしえかた,"way of teaching, how to teach",no,
+N4,イベント,イベント,event,no,
+N4,システム,システム,system,yes,N1
+N4,一般,いっぱん,"general, average",yes,N3
+N4,件,けん,"matter, case, item",yes,N1
+N4,無,む,"nothing, nothingness, zero",yes,N3
+N4,自身,じしん,oneself,yes,N3
+N4,部分,ぶぶん,"portion, section, part",yes,N3
+N4,それはいけませんね,それはいけませんね,that's too bad (showing sympathy),no,
+N4,戦争,せんそう,war,yes,N4
+N4,確か; たしか,たしか,"if I remember correctly; certain, definite",yes,N4
+N4,予定,よてい,"plans, arrangement, schedule",yes,N4
+N4,紹介,しょうかい,an introduction,yes,N4
+N4,マジ,マジ,seriously,no,
+N4,全員,ぜんいん,all members,yes,N3
+N4,ちゃんと,ちゃんと,"perfectly, properly, exactly",yes,N3
+N4,愛,あい,love,yes,N3
+N4,登録,とうろく,"registration, register, record",yes,N1
+N4,計画,けいかく,"plan, project, schedule",yes,N3
+N4,調査,ちょうさ,survey; investigation,yes,N3
+N4,重要,じゅうよう,"important, essential",yes,N3
+N4,昔,むかし,old days; past,yes,N4
+N4,員,いん,"suffix: member, staff (会社員 = company employee)",yes,N1
+N4,形,かたち,"shape, form",yes,N4
+N4,チーム,チーム,team,yes,N3
+N4,人生,じんせい,"(human) life (e.g., conception to death)",yes,N3
+N4,目的,もくてき,"purpose, goal, aim",yes,N3
+N4,記事,きじ,"article, news story",yes,N3
+N4,開始,かいし,"start, commencement, beginning",yes,N3
+N4,開発,かいはつ,"development, exploitation",yes,N1
+N4,これから,これから,"from now on, after this",yes,N4
+N4,うん,うん,"yes (informal), all right (ok)",yes,N4
+N4,男性,だんせい,man; male,yes,N4
+N4,地,ち,"earth, ground, land",yes,N3
+N4,影響,えいきょう,"influence, effect",yes,N3
+N4,政府,せいふ,"government, administration",yes,N3
+N4,韓国,かんこく,South Korea,no,
+N4,やはり; やっぱり,やはり; やっぱり,"as expected, after all (やっぱり is more casual)",yes,N3
+N4,注意,ちゅうい,"caution, attention",yes,N4
+N4,地域,ちいき,"area, region",yes,N3
+N4,基本,きほん,"basic, basis",yes,N3
+N4,姿,すがた,"figure, shape, appearance",yes,N3
+N4,期間,きかん,"period, term",yes,N3
+N4,率,りつ,"rate, ratio, percentage",yes,N3
+N4,街,まち,"town; street, area",yes,N3
+N4,室,しつ,room; suffix: room (as in 会議室),yes,N1
+N4,自分自身,じぶんじしん,"oneself, one's own self",no,
+N4,カード,カード,card,yes,N3
+N4,撮影,さつえい,photographing,yes,N2
+N4,連絡,れんらく,"communication, contact, connection",yes,N4
+N4,やすい,やすい,"suffix: easy to do, as in 読みやすい",no,
+N4,見える,みえる,"to be seen, to be visible; to seem; to come (honorific)",yes,N4
+N4,長さ,ながさ,length,no,
+N4,あの頃,あのころ,"those days, back then",no,
+N4,以前,いぜん,in the past; before,yes,N3
+N4,決定,けってい,"decision, determination",yes,N3
+N4,王,おう,king,yes,N3
+N4,記念,きねん,"commemoration, memory",yes,N3
+N4,軍,ぐん,"army, troops",yes,N3
+N4,以下,いか,"less than, below",yes,N4
+N4,シリーズ,シリーズ,series,yes,N2
+N4,ライブ,ライブ,"live (performance, concert)",no,
+N4,公式,こうしき,"formula, formality, official",yes,N2
+N4,終了,しゅうりょう,"end, close, termination",yes,N2
+N4,違い,ちがい,"difference, discrepancy",yes,N3
+N4,ほとんど,ほとんど,"mostly, almost",yes,N4
+N4,政治,せいじ,politics,yes,N4
+N4,着,ちゃく,counter for clothing items,yes,N1
+N4,アプリ,アプリ,"app, application (software)",no,
+N4,んで,んで,and then; so (casual),no,
+N4,モデル,モデル,a fashion model,yes,N2
+N4,効果,こうか,"effect, result",yes,N3
+N4,期待,きたい,"expectation, anticipation, hope",yes,N3
+N4,行動,こうどう,"action, conduct, behavior",yes,N3
+N4,過去,かこ,past,yes,N3
+N4,まとめ; 纏め,まとめ,"summary, conclusion; settlement",yes,N1
+N4,線,せん,"line, wire",yes,N4
+N4,米,こめ,uncooked rice,yes,N4
+N4,歴史,れきし,history,yes,N4
+N4,期,き,"period, term, stage",yes,N1
+N4,警察,けいさつ,police; police station,yes,N4
+N4,楽しみ,たのしみ,"pleasure, joy",yes,N4
+N4,とこ,とこ,place (casual ところ),no,
+N4,実は,じつは,actually; in fact,yes,N3
+N4,イメージ,イメージ,"image, impression",no,
+N4,レベル,レベル,level,yes,N2
+N4,一部,いちぶ,"part, portion",yes,N1
+N4,同,どう,"prefix: the same, the said (同社 = the same company)",yes,N1
+N4,最終,さいしゅう,"last, closing",yes,N3
+N4,海外,かいがい,"foreign, abroad, overseas",yes,N3
+N4,追加,ついか,"addition, supplement, appendix",yes,N2
+N4,選手,せんしゅ,player selected for a team (usually athletic),yes,N3
+N4,お大事に,おだいじに,"Take care of yourself, Take care!, Get well soon",yes,N1
+N4,教育,きょういく,education,yes,N4
+N4,番組,ばんぐみ,broadcast program,yes,N4
+N4,男友達,おとこともだち,male friend,no,
+N4,全く,まったく,"really, completely",yes,N3
+N4,このやろう,このやろう,you bastard!; damn you!,no,
+N4,サービス,サービス,"service, support system; goods or services without charge",yes,N3
+N4,全国,ぜんこく,"the entire nation, country-wide, nation-wide",yes,N3
+N4,希望,きぼう,"hope, wish, aspiration",yes,N3
+N4,クソ; 糞,ふん; くそ,"poop, crap; damn!",no,
+N4,事故,じこ,accident,yes,N4
+N4,経済,けいざい,"economics, finance, economy",yes,N4
+N4,その後,そのあと,"after that, later",no,
+N4,デザイン,デザイン,design,yes,N1
+N4,主,ぬし; しゅ; おも,"master, owner; main",no,
+N4,環境,かんきょう,"environment, circumstance",yes,N3
+N4,専門,せんもん,major; speciality,no,
+N4,文化,ぶんか,culture,yes,N4
+N4,メール,メール,"email, message",no,
+N4,成功,せいこう,"success, hit",yes,N3
+N4,つまり,つまり,namely; in other words; in short,yes,N3
+N4,データ,データ,data,yes,N1
+N4,ファン,ファン,fan,yes,N1
+N4,リンク,リンク,link (web); ice rink,no,
+N4,映像,えいぞう,"video, footage; picture on a screen",yes,N1
+N4,発見,はっけん,"discovery, detection, finding",yes,N3
+N4,まず,まず,"first (of all), to start with",yes,N3
+N4,最大,さいだい,"maximum, greatest",no,
+N4,程度,ていど,"degree, extent; about, roughly",yes,N3
+N4,主義,しゅぎ,"doctrine, cause, principle",yes,N3
+N4,出演,しゅつえん,"appearing (on stage, TV or film)",yes,N1
+N4,協力,きょうりょく,"cooperation, collaboration",yes,N3
+N4,品,ひん; しな,"elegance, class (ひん); goods, article (しな)",yes,N3
+N4,逆,ぎゃく,"reverse, opposite",yes,N3
+N4,量,りょう,"quantity, amount",yes,N3
+N4,興味,きょうみ,interest (in something),yes,N4
+N4,経験,けいけん,experience,yes,N3
+N4,非常に,ひじょうに,extremely; very,yes,N4
+N4,終わり,おわり,end,yes,N4
+N4,運転,うんてん,driving,yes,N3
+N4,星,ほし,star,yes,N4
+N4,行う,おこなう,to carry out; to conduct (typically used in written language),yes,N4
+N4,彼ら,かれら,they (usually male),no,
+N4,億,おく,hundred million,yes,N4
+N4,タイプ,タイプ,"type, style",yes,N4
+N4,運動,うんどう,exercise,yes,N3
+N4,変,へん,"strange, odd",yes,N4
+N4,チェック,チェック,check,yes,N4
+N4,妻,つま,wife (humble),yes,N4
+N4,最も,もっとも,most,yes,N3
+N4,お元気で,おげんきで,take care; stay well,no,
+N4,もし,もし,if,yes,N4
+N4,つもり; 心算,つもり,"intention, plan; expectation",yes,N4
+N4,日本酒,にほんしゅ,"sake, Japanese rice wine",no,
+N4,感じる,かんじる,"to feel, to sense",yes,N3
+N4,何百,なんびゃく,"hundreds of, several hundred",no,
+N4,お使い,おつかい,errand,yes,N1
+N4,こちらこそ,こちらこそ,it is I who should say so,yes,N2
+N4,気分,きぶん,"feeling, mood",yes,N4
+N4,味,あじ,"flavor, taste",yes,N4
+N4,中々,なかなか,"very, considerably, quite",yes,N3
+N4,失敗,しっぱい,"failure, mistake",yes,N4
+N4,移動中,いどうちゅう,"in transit, currently moving",no,
+N4,まあまあ,まあまあ,okay; so-so; decent,yes,N2
+N4,しっかり,しっかり,"firmly, steady",yes,N4
+N4,原因,げんいん,"cause, origin, source",yes,N4
+N4,安心,あんしん,"peace of mind, relief",yes,N4
+N4,割; 割り,わり,"proportion, rate; (割に) considering, for (one's age etc.)",yes,N1
+N4,会社員,かいしゃいん,"company employee, office worker",no,
+N4,幸せ,しあわせ,"happiness, blessing",yes,N3
+N4,一億,いちおく,"one hundred million, 100,000,000",no,
+N4,そんなに,そんなに,"so much, like that",yes,N4
+N4,感謝,かんしゃ,"thanks, gratitude",yes,N3
+N4,自然,しぜん,"nature, spontaneous",yes,N3
+N4,しかも,しかも,"moreover, furthermore, besides, plus",yes,N3
+N4,準備,じゅんび,preparation; getting ready,yes,N3
+N4,試合,しあい,"match, game, competition",yes,N4
+N4,きっと,きっと,"surely, definitely, undoubtedly, certainly",yes,N4
+N4,巻; 巻き,まき,"roll, scroll; volume (of a book); winding",yes,N1
+N4,想像,そうぞう,"to imagine, to picture",yes,N3
+N4,さえ,さえ,particle: even; (with ば) if only,no,
+N4,今度,こんど,"now, this time, near future, one of these days, next time",yes,N4
+N4,親,おや,a parent,yes,N4
+N4,用意,ようい,preparation,yes,N4
+N4,科学,かがく,science,yes,N4
+N4,数百,すうひゃく,several hundred,no,
+N4,どれほど,どれほど,how much; to what extent,no,
+N4,答え方,こたえかた,"way of answering, how to answer",no,
+N4,百万,ひゃくまん,one million,no,
+N4,予約,よやく,reservation,yes,N4
+N4,裏,うら,"reverse side, back",yes,N4
+N4,島,しま,island,yes,N4
+N4,母さま; 母様,かあさま,mother (honorific),no,
+N4,必ず,かならず,"surely, certainly",yes,N4
+N4,運転手,うんてんしゅ,driver (by occupation),yes,N4
+N4,友人,ゆうじん,friend (formal),yes,N3
+N4,周り,まわり,surroundings,yes,N4
+N4,卒業,そつぎょう,graduation,yes,N4
+N4,ごと,ごと,"suffix: whole, together with, as in まるごと (whole) or 皮ごと (skin and all)",no,
+N4,人々,ひとびと,people,no,
+N4,重さ,おもさ,"weight, heaviness",no,
+N4,正直,しょうじき,"honesty, integrity, frankness",yes,N3
+N4,よし; 良し,よし,all right!,no,
+N4,素晴らしい,すばらしい,wonderful; terrific,yes,N3
+N4,続ける,つづける,"to continue, to keep doing",yes,N4
+N4,途中,とちゅう,"on the way, midway",yes,N4
+N4,アイドル,アイドル,"idol, pop star",no,
+N4,右上,みぎうえ,upper right,no,
+N4,素敵; すてき; ステキ,すてき,"lovely, wonderful, splendid; stylish",yes,N3
+N4,森,もり,forest,yes,N4
+N4,生産,せいさん,production; to produce,yes,N4
+N4,国際,こくさい,international,yes,N4
+N4,仕方,しかた,way (of doing something),yes,N4
+N4,研究室,けんきゅうしつ,the professor's office; laboratory,yes,N4
+N4,食事,しょくじ,meal,yes,N3
+N4,会議,かいぎ,business meeting; conference,yes,N4
+N4,野球,やきゅう,baseball,no,
+N4,ドル,ドル,dollar (currency),no,
+N4,健康,けんこう,health(y),yes,N3
+N4,意見,いけん,"opinion, view, idea",yes,N4
+N4,製,せい,"suffix: made in, made of (日本製 = made in Japan)",yes,N1
+N4,客,きゃく,"guest, customer",yes,N4
+N4,反対,はんたい,"oppose, opposition, resistance",yes,N4
+N4,髪,かみ,hair,yes,N4
+N4,おき,おき,"suffix: every other, at intervals of (e.g. 一日おき = every other day)",no,
+N4,ソフト,ソフト,soft; soft hat; software,yes,N4
+N4,無駄; ムダ,むだ,"waste, futility, uselessness",yes,N3
+N4,別々,べつべつ,"separately, individually",yes,N2
+N4,夫,おっと,husband,yes,N4
+N4,都,と; みやこ,"metropolis, Tokyo (と); capital city (みやこ)",yes,N4
+N4,若い人,わかいひと,"young person, youth",no,
+N4,壁,かべ,wall,yes,N4
+N4,席,せき,a seat,yes,N4
+N4,法律,ほうりつ,law,yes,N4
+N4,機会,きかい,"chance, opportunity",yes,N4
+N4,小説,しょうせつ,novel,yes,N4
+N4,事務所,じむしょ,office,yes,N4
+N4,趣味,しゅみ,hobby; pastime,yes,N4
+N4,右下,みぎした,lower right,no,
+N4,聞き方,ききかた,way of listening; way of asking,no,
+N4,不安,ふあん,"anxiety, uneasiness",yes,N3
+N4,それでも,それでも,"but (still), and yet, nevertheless",yes,N3
+N4,プレイ; プレー,プレイ; プレー,"play (sports, games); activity; (colloquially) sexual play",no,
+N4,失礼,しつれい,"discourtesy, impoliteness; Excuse me",no,
+N4,地震,じしん,earthquake,yes,N4
+N4,社長,しゃちょう,president of a company,yes,N4
+N4,おかしい,おかしい,strange; odd; funny,yes,N4
+N4,プレゼント,プレゼント,"present, gift",yes,N4
+N4,代わり,かわり,"substitute, replacement",yes,N4
+N4,飲み水,のみみず,drinking water,no,
+N4,丸; マル,まる,circle; circle mark (○) meaning correct; full (month),yes,N3
+N4,受ける,うける,"to take (an examination, interview, etc.); to receive",yes,N4
+N4,例えば,たとえば,"for example, e.g.",yes,N4
+N4,サッカー,サッカー,"soccer, football",no,
+N4,失礼します,しつれいします,excuse me; goodbye (formal),no,
+N4,お代わり,おかわり,"second helping, another cup",yes,N2
+N4,会話,かいわ,conversation,yes,N4
+N4,あげる,あげる,to give,yes,N5
+N4,会場,かいじょう,"venue, meeting place",yes,N4
+N4,失礼しました; しつれいしました,しつれいしました,"I'm sorry, excuse me (past)",no,
+N4,やっぱ,やっぱ,as expected (casual),no,
+N4,ビル,ビル,building,yes,N4
+N4,変わる,かわる,"to change, to be transformed, to vary",yes,N4
+N4,遊び,あそび,play,yes,N4
+N4,帰り,かえり,"return, coming back",yes,N4
+N4,市民,しみん,citizen,yes,N4
+N4,昔々,むかしむかし,"once upon a time, long long ago",no,
+N4,地元,じもと,local,yes,N1
+N4,一杯,いっぱい,"full, to the utmost",yes,N4
+N4,表,おもて; ひょう,"front, surface, outside (おもて); table, chart (ひょう)",yes,N4
+N4,そろそろ,そろそろ,"gradually, soon",yes,N4
+N4,相談,そうだん,consultation,yes,N3
+N4,始める,はじめる,"to start, to begin",yes,N4
+N4,リスト,リスト,list,no,
+N4,ガス,ガス,gas,yes,N4
+N4,どんどん,どんどん,quickly and steadily; at a rapid pace,yes,N4
+N4,続く,つづく,"to continue, to go on",yes,N4
+N4,指,ゆび,finger,yes,N4
+N4,強さ,つよさ,strength; power,no,
+N4,剣,けん,"sword, blade",no,
+N4,申し訳ありません,もうしわけありません,"I'm very sorry, I have no excuse (formal)",no,
+N4,さっき,さっき,a little while ago,yes,N4
+N4,字,じ,letter; character,yes,N4
+N4,御,ご,"polite prefix (ご, お)",no,
+N4,急,きゅう,"urgent, sudden; steep",yes,N4
+N4,銀行員,ぎんこういん,"bank employee, bank clerk",no,
+N4,キー,キー,key (physical or metaphorical),no,
+N4,急に,きゅうに,suddenly,yes,N3
+N4,助け,たすけ,assistance,yes,N1
+N4,交通,こうつう,"traffic, transportation",yes,N4
+N4,しばらく,しばらく,little while,yes,N4
+N4,ルール,ルール,rule,yes,N1
+N4,他人,たにん,"unrelated person, stranger",yes,N3
+N4,そりゃ,そりゃ,that is (casual),no,
+N4,葉,は,leaf,yes,N4
+N4,やっと,やっと,"at last, finally",yes,N4
+N4,血,ち,blood,yes,N4
+N4,値段,ねだん,price,yes,N3
+N4,工場,こうじょう; こうば,"factory (こうじょう); workshop, small factory (こうば)",yes,N4
+N4,にくい,にくい,"suffix: hard to do, as in 読みにくい",yes,N1
+N4,黒猫,くろねこ,black cat,no,
+N4,お互いに,おたがいに,"mutually, with each other",no,
+N4,突然,とつぜん,"abruptly, suddenly, unexpectedly",yes,N3
+N4,別に; べつに,べつに,"(not) particularly, nothing",yes,N3
+N4,お尻,おしり,"buttocks, bottom",no,
+N4,まさか,まさか,by no means,yes,N3
+N4,集中,しゅうちゅう,"to concentrate, to focus",yes,N3
+N4,案内,あんない,"information, guidance",yes,N3
+N4,空気,くうき,"air, atmosphere",yes,N4
+N4,ひどい,ひどい,"terrible, awful, unfair, cruel",yes,N4
+N4,是非,ぜひ,"certainly, by all means; without fail",yes,N3
+N4,休み時間,やすみじかん,"break time, recess",no,
+N4,ブロック,ブロック,block; to block,no,
+N4,電気代,でんきだい,electricity bill,no,
+N4,会議室,かいぎしつ,conference room,yes,N4
+N4,毛,け,"hair, fur",yes,N4
+N4,将来,しょうらい,(in the) future; prospects,yes,N4
+N4,パン屋,ぱんや,"bakery, bread shop",no,
+N4,到着,とうちゃく,arrival,yes,N3
+N4,腹; ハラ,はら,"abdomen, belly, stomach",yes,N3
+N4,ヤバい,やばい,"dangerous, awesome, terrible",no,
+N4,社員,しゃいん,company employee,no,
+N4,もしくは,もしくは,"or, otherwise",yes,N1
+N4,恋人,こいびと,lover; sweetheart; girlfriend,yes,N3
+N4,気をつける; 気を付ける,きをつける,"to be careful, to pay attention, to take care",yes,N2
+N4,それで; 其れで,それで,"and so, because of that; and then",yes,N4
+N4,熱,ねつ,"fever, temperature",yes,N4
+N4,探す,さがす,"to search, to seek, to look for",yes,N4
+N4,インターネット,インターネット,internet,no,
+N4,授業中,じゅぎょうちゅう,"during class, in the middle of a lesson",no,
+N4,感想,かんそう,"impressions, thoughts, feelings, reactions",yes,N2
+N4,文化祭,ぶんかさい,school cultural festival,no,
+N4,ベスト,ベスト,best; vest,yes,N1
+N4,温泉,おんせん,"spa, hot spring",yes,N2
+N4,関西,かんさい,"Kansai region (area around Osaka, Kyoto, Kobe)",yes,N2
+N4,約束,やくそく,"arrangement, appointment, promise",yes,N4
+N4,バイト,バイト,part-time job,no,
+N4,一歩,いっぽ,one step,no,
+N4,パワー,パワー,"power, strength",no,
+N4,キス; キッス,キス; キッス,kiss,no,
+N4,資料,しりょう,"materials, data",yes,N2
+N4,ガス代,ガスだい,gas bill,no,
+N4,与える,あたえる,to give,yes,N3
+N4,以内,いない,"within, less (no more) than",yes,N4
+N4,変える,かえる,"to change, to alter, to vary",yes,N4
+N4,合う,あう,"to fit, to match",yes,N4
+N4,久しぶり,ひさしぶり,it has been a long time; for the first time in a long time,yes,N4
+N4,新聞社,しんぶんしゃ,newspaper company,yes,N4
+N4,まだまだ,まだまだ,"still, not yet (emphatic)",no,
+N4,教師,きょうし,teacher,yes,N3
+N4,イギリス,イギリス,"Britain, the United Kingdom",no,
+N4,ブランド,ブランド,brand,no,
+N4,小学校,しょうがっこう,elementary school,yes,N4
+N4,パソコン,パソコン,(personal) computer,yes,N4
+N4,産業,さんぎょう,industry,yes,N4
+N4,近所,きんじょ,neighborhood,yes,N4
+N4,ドラゴン,ドラゴン,dragon,no,
+N4,天使,てんし,angel,no,
+N4,ご迷惑,ごめいわく,"trouble, bother, inconvenience (polite)",no,
+N4,案内所,あんないじょ,"information desk, reception",no,
+N4,実,じつ; み,"truth, reality (じつ); fruit, seed, good result (み)",yes,N3
+N4,カバー,カバー,"cover (e.g., book)",yes,N2
+N4,シーズン,シーズン,season (sporting),yes,N2
+N4,ごみ; ゴミ,ごみ,"garbage, trash, rubbish",yes,N3
+N4,お祭り,おまつり,festival,yes,N4
+N4,先輩,せんぱい,senior members of a group,yes,N4
+N4,Ｔシャツ,てぃーしゃつ,T-shirt,no,
+N4,男女,だんじょ,"men and women, both sexes",no,
+N4,五百,ごひゃく,five hundred,no,
+N4,ドン,ドン,"bang, go! (starting signal); also onomatopoeia",no,
+N4,オススメ; お勧め; お薦め,おすすめ,recommendation,no,
+N4,人口,じんこう,population,yes,N4
+N4,ヒット,ヒット,hit; big success,no,
+N4,たった,たった,only; merely; just,yes,N3
+N4,小学生,しょうがくせい,elementary school pupil,yes,N2
+N4,生きる,いきる,to live,yes,N4
+N4,深い,ふかい,"deep, profound",yes,N4
+N4,邪魔,じゃま,"hindrance, intrusion",yes,N3
+N4,びっくりする,びっくりする,to be surprised,no,
+N4,めっちゃ,めっちゃ,"very, extremely",no,
+N4,ダイエット,ダイエット,"diet, dieting",no,
+N4,手術,しゅじゅつ,surgical operation,yes,N3
+N4,ご覧になる; ごらんになる,ごらんになる,"to look, to see, to watch (honorific)",yes,N4
+N4,厳しい,きびしい,hard; rigorous; strict,yes,N4
+N4,残る,のこる,"to remain, to be left",yes,N4
+N4,両方,りょうほう,"both sides, both parties",yes,N4
+N4,翻訳,ほんやく,translation,yes,N4
+N4,ほい,ほい,"hey, here you go; casual interjection",no,
+N4,お邪魔,おじゃま,"intruding, being a nuisance (used in polite phrases)",no,
+N4,五百万,ごひゃくまん,five million,no,
+N4,思い出,おもいで,"memories, recollections, reminiscence",yes,N3
+N4,どうぞよろしく,どうぞよろしく,pleased to meet you,yes,N2
+N4,ショー,ショー,show,yes,N1
+N4,選ぶ,えらぶ,to choose; to select,yes,N4
+N4,アジア,アジア,Asia,yes,N4
+N4,使い方,つかいかた,"how to use, usage",no,
+N4,やり方,やりかた,"way of doing, method",no,
+N4,バイク,バイク,"motorcycle, bike",no,
+N4,リーダー,リーダー,leader,no,
+N4,午前中,ごぜんちゅう,"during the morning, in the morning",no,
+N4,身長,しんちょう,"height (of body), stature",yes,N3
+N4,オンライン,オンライン,on-line,yes,N1
+N4,当たり; 当り,あたり,"a hit, a win, a correct guess; bullseye",yes,N1
+N4,台風,たいふう,typhoon,yes,N4
+N4,教会,きょうかい,church,yes,N4
+N4,スーツ,スーツ,suit,yes,N4
+N4,だらけ,だらけ,"suffix: full of, covered in (e.g. 泥だらけ = covered in mud)",yes,N1
+N4,涙,なみだ,tear,yes,N3
+N4,都合,つごう,"circumstances, convenience",yes,N4
+N4,見た目,みため,"appearance, looks",no,
+N4,カフェ,カフェ,café,no,
+N4,ゴミ出し,ゴミだし,"putting out the garbage, taking out the trash",no,
+N4,上司,じょうし,one's superior,yes,N1
+N4,掃除機,そうじき,vacuum cleaner,no,
+N4,体重,たいじゅう,(body) weight,no,
+N4,カット,カット,"cut, cutting",yes,N1
+N4,適当,てきとう,"fitness, suitability",yes,N4
+N4,匂い,におい,"odor, smell",yes,N3
+N4,鏡,かがみ,mirror,yes,N4
+N4,人数,にんずう,number of people,no,
+N4,あほ; アホ,あほ,"idiot, fool (Kansai word for 馬鹿)",no,
+N4,大きさ,おおきさ,size,no,
+N4,えーい,えーい,"hey!, alright! (exclamation of resolve or frustration)",no,
+N4,ダウンロード,ダウンロード,download,no,
+N4,それとも,それとも,"or, or else",yes,N3
+N4,ゲスト,ゲスト,guest,yes,N1
+N4,決して,けっして,never,yes,N4
+N4,挨拶,あいさつ,greeting,no,
+N4,会長,かいちょう,"president (of an association/club), chairman",no,
+N4,課題,かだい,"subject, theme, task",yes,N1
+N4,予算,よさん,"estimate, budget",yes,N3
+N4,よろしくお願いいたします,よろしくおねがいいたします,thank you in advance; please treat me kindly (very polite),no,
+N4,チャンネル,チャンネル,a channel,yes,N1
+N4,ニュー,ニュー,new,yes,N1
+N4,決める,きめる,to decide,yes,N4
+N4,高校生,こうこうせい,high school student,yes,N4
+N4,彼氏,かれし,boyfriend,no,
+N4,コーナー,コーナー,corner,yes,N1
+N4,招待,しょうたい,invitation,yes,N3
+N4,焼き,やき,grilling; grilled food,no,
+N4,世界中,せかいじゅう,"all over the world, throughout the world",no,
+N4,スペシャル,スペシャル,special,no,
+N4,毎回,まいかい,"every time, each time",no,
+N4,スペース,スペース,space,yes,N1
+N4,殺す; コロス,ころす,to kill,yes,N3
+N4,動物園,どうぶつえん,zoo,yes,N4
+N4,増える,ふえる,"to increase, to multiply",yes,N4
+N4,進む,すすむ,"to advance, to proceed",yes,N4
+N4,向かう,むかう,"to face, to go towards",yes,N4
+N4,不満,ふまん,"dissatisfaction, discontent, complaints",yes,N3
+N4,トラブル,トラブル,trouble (sometimes used as a verb),yes,N1
+N4,ショップ,ショップ,a shop,yes,N2
+N4,飯; メシ,めし,"meals, food",yes,N3
+N4,神社,じんじゃ,Shinto shrine,yes,N4
+N4,日々,ひび,"daily, every day",yes,N1
+N4,初心者,しょしんしゃ,"beginner, novice",no,
+N4,ボックス,ボックス,box,no,
+N4,ご両親,ごりょうしん,your parents (polite),no,
+N4,お客様; お客さま,おきゃくさま,"customer, guest (polite form)",no,
+N4,信号,しんごう,"traffic lights, signal, semaphore",yes,N3
+N4,傷,きず,"wound, injury, hurt",yes,N3
+N4,ホール,ホール,hall; hole,yes,N1
+N4,お待ちください,おまちください,Please wait a moment,no,
+N4,人形,にんぎょう,"doll, figure",yes,N4
+N4,坂,さか,"slope, hill",yes,N4
+N4,とんでもない,とんでもない,"outrageous, unthinkable",yes,N3
+N4,喧嘩; ケンカ,けんか,quarrel / fight,yes,N4
+N4,終わらせる,おわらせる,"to finish, to bring to an end",no,
+N4,スピード,スピード,speed,yes,N1
+N4,ジャンプ,ジャンプ,jump,yes,N1
+N4,コントロール,コントロール,control,yes,N1
+N4,知り合い; 知合い,しりあい,acquaintance,yes,N2
+N4,規則,きそく,"rule, regulation",yes,N4
+N4,季節,きせつ,season (in reference to weather),yes,N4
+N4,家庭科,かていか,home economics (school subject),no,
+N4,チケット,チケット,ticket,no,
+N4,戻る,もどる,"to return, to come back",yes,N4
+N4,ハート,ハート,"heart (shape); heart, feelings",no,
+N4,お知らせ,おしらせ,"announcement, notice, notification",no,
+N4,恐ろしい,おそろしい,"terrible, dreadful",yes,N3
+N4,同僚,どうりょう,colleague; co-worker,yes,N3
+N4,せっかく; 折角,せっかく,"with much effort, at great pains; long-awaited, rare (chance)",yes,N2
+N4,伝える,つたえる,"to convey (a message); to tell, to report",yes,N4
+N4,ピアノ,ピアノ,piano,yes,N4
+N4,週末,しゅうまつ,weekend,no,
+N4,笑い,わらい,"laugh, laughter, smile",yes,N3
+N4,老人,ろうじん,"the aged, old person",yes,N3
+N4,合格,ごうかく,"success, passing (e.g., exam)",yes,N3
+N4,給料,きゅうりょう,"salary, wages",yes,N3
+N4,恥ずかしい,はずかしい,"ashamed, embarrassed",yes,N4
+N4,具合,ぐあい,"condition, state, health",yes,N4
+N4,日記,にっき,"diary, journal",yes,N4
+N4,中学生,ちゅうがくせい,middle school student,no,
+N4,姉さん,ねえさん,older sister; also used as address term,no,
+N4,アーティスト,アーティスト,artist,no,
+N4,一言; ひと言,ひとこと,"a word, a brief comment",yes,N3
+N4,でかい; デカい,でかい,"huge, big (casual)",yes,N1
+N4,駐車場,ちゅうしゃじょう,parking lot,yes,N4
+N4,やる気,やるき,"motivation, willingness",no,
+N4,ヒーロー,ヒーロー,hero,no,
+N4,休日,きゅうじつ,"holiday, day off",no,
+N4,前半,ぜんはん,first half,no,
+N4,血液型,けつえきがた,blood type,no,
+N4,ナンバー,ナンバー,number,yes,N2
+N4,幼稚園,ようちえん,kindergarten,yes,N2
+N4,受付; 受け付け,うけつけ,"reception (desk); accepting, receiving",yes,N4
+N4,入学,にゅうがく,entry to school or university,yes,N4
+N4,出発,しゅっぱつ,departure,yes,N3
+N4,チャレンジ,チャレンジ,"challenge, attempt",no,
+N4,セール,セール,sale,yes,N1
+N4,書類,しょるい,"documents, official papers",yes,N3
+N4,現金,げんきん,cash,yes,N3
+N4,気温,きおん,temperature (weather - not used for things),yes,N3
+N4,ソース,ソース,sauce; source,yes,N1
+N4,スマート,スマート,"smart, stylish, slim",yes,N2
+N4,そいつ; ソイツ,そいつ,"that guy, that one (casual, can be rude)",no,
+N4,ガラス,ガラス,"glass, pane",yes,N4
+N4,住所,じゅうしょ,address; place of residence,yes,N4
+N4,思い出す,おもいだす,"to recall, to remember",yes,N4
+N4,店員,てんいん,clerk; shop-employee,yes,N4
+N4,輸入,ゆにゅう,import,yes,N3
+N4,返事,へんじ,"reply, answer",yes,N4
+N4,わし,わし,I (old man speech),no,
+N4,ラブ,ラブ,love,no,
+N4,懐かしい,なつかしい,"nostalgic, fondly remembered",yes,N2
+N4,ドライバー,ドライバー,"driver, screwdriver",yes,N1
+N4,センス,センス,"sense (for music, style, tact, etc.)",yes,N1
+N4,道具,どうぐ,tool,yes,N4
+N4,数学,すうがく,mathematics,yes,N4
+N4,競争,きょうそう,"competition, contest",yes,N4
+N4,丁目,ちょうめ,block (city address unit),yes,N1
+N4,新幹線,しんかんせん,"Shinkansen, ""Bullet Train""",yes,N2
+N4,パート,パート,part-time job; part,yes,N4
+N4,珍しい,めずらしい,"unusual, rare",yes,N4
+N4,大体,だいたい,approximately; in most cases; in general; to begin with (same as もともと),yes,N4
+N4,ひげ,ひげ,beard,yes,N4
+N4,コンサート,コンサート,concert,yes,N4
+N4,怪我; ケガ,けが,injury / wound,yes,N3
+N4,激しい,はげしい,"violent, vehement, intense",yes,N3
+N4,辺り,あたり,"vicinity, nearby",yes,N3
+N4,メイク,メイク,makeup,no,
+N4,マスク,マスク,mask,yes,N2
+N4,メニュー,メニュー,menu,yes,N2
+N4,事務室,じむしつ,office room,no,
+N4,田舎,いなか,"rural, countryside",yes,N4
+N4,格好; カッコ,かっこう; かっこ,"appearance, style, manner; shape, form, posture",yes,N3
+N4,半年,はんとし,"half a year, six months",no,
+N4,ワンワン,ワンワン,"bow-wow, woof (dog sound); also crying sound",no,
+N4,あんた; アンタ,あんた,"you (casual, can sound rude)",no,
+N4,ジム,ジム,gym,no,
+N4,看護師,かんごし,nurse,yes,N4
+N4,コイン,コイン,coin,no,
+N4,アップロード,アップロード,upload,no,
+N4,楽しむ,たのしむ,to enjoy,yes,N1
+N4,済む,すむ,"to finish, to end",yes,N4
+N4,仲良く,なかよく,on good terms,no,
+N4,ライフ,ライフ,life,no,
+N4,釣り; 釣,つり,fishing; also: change (money),yes,N3
+N4,お世話になりました,おせわになりました,thank you for all your help,no,
+N4,弁当,べんとう,box lunch,yes,N3
+N4,お世話になります,おせわになります,thank you for your help (to someone currently helping),no,
+N4,スタジオ,スタジオ,studio,yes,N1
+N4,サンプル,サンプル,sample,yes,N2
+N4,港,みなと,"harbor, port",yes,N4
+N4,体調,たいちょう,"physical condition, state of health",no,
+N4,アイデア; アイディア,アイデア; アイディア,idea,yes,N2
+N4,ベル,ベル,bell,yes,N4
+N4,部長,ぶちょう,department (division) manager,yes,N4
+N4,お金持ち,おかねもち,rich person,no,
+N4,テニス,テニス,tennis,yes,N4
+N4,ガキ,ガキ,"brat, kid",no,
+N4,ファンタジー,ファンタジー,fantasy,no,
+N4,パー; パア,パー; パア,"paper (open hand in rock-paper-scissors); par (golf); wasted, gone for nothing (casual)",no,
+N4,ジャケット,ジャケット,jacket,no,
+N4,具,ぐ,"ingredients (in soup, etc.); tool, utensil",no,
+N4,金持ち,かねもち,"wealthy person, rich person",yes,N4
+N4,東北,とうほく,Tohoku (northeastern Japan),no,
+N4,カップル,カップル,couple (romantic pair),no,
+N4,歩き方,あるきかた,"way of walking, gait",no,
+N4,部下,ぶか,one's subordinate,yes,N1
+N4,主人,しゅじん,(one's own) husband,no,
+N4,二階建て,にかいだて,two-storied (building),yes,N4
+N4,勝つ,かつ,to win,yes,N4
+N4,洗濯物,せんたくもの,"laundry, washing",no,
+N4,体育,たいいく,"physical education, gymnastics, athletics",yes,N3
+N4,シート,シート,seat; sheet,yes,N1
+N4,真似; マネ,まね,"mimicry, imitation, behavior",yes,N3
+N4,起こす,おこす,to wake (someone) up,yes,N1
+N4,驚く,おどろく,"to be surprised, to be astonished",yes,N4
+N4,ご主人,ごしゅじん,"(your, her) husband",no,
+N4,それほど,それほど,to that degree; extent,yes,N4
+N4,割引,わりびき,discount,yes,N2
+N4,洗濯機,せんたくき,washing machine,no,
+N4,大学生,だいがくせい,"college student, university student",yes,N4
+N4,通る,とおる,"to pass (by), to go through",yes,N4
+N4,逃げる,にげる,"to escape, to run away",yes,N4
+N4,雲,くも,cloud,yes,N4
+N4,寂しい,さびしい,"lonely, lonesome",yes,N4
+N4,下着,したぎ,underwear,yes,N4
+N4,見つける,みつける,"to discover, to find",yes,N4
+N4,ハッピー,ハッピー,happy,no,
+N4,届く,とどく,to reach,yes,N3
+N4,いらっしゃいませ,いらっしゃいませ,welcome (to a shop/restaurant),no,
+N4,丁寧に,ていねいに,"politely, carefully, with care",no,
+N4,レポート; リポート,レポート; リポート,report; school paper,yes,N4
+N4,面接,めんせつ,interview,yes,N2
+N4,印刷,いんさつ,printing,yes,N3
+N4,賛成,さんせい,"to agree, to support",yes,N3
+N4,じゃんけん,じゃんけん,rock-scissors-paper game,yes,N2
+N4,広さ,ひろさ,"size, area, width",yes,N2
+N4,行っていらっしゃい,いっていらっしゃい,"have a nice day, see you",no,
+N4,アフリカ,アフリカ,Africa,yes,N4
+N4,布団,ふとん,futon,yes,N4
+N4,お祝い,おいわい,"congratulation, celebration",yes,N4
+N4,入院,にゅういん,hospitalization,yes,N4
+N4,集まる,あつまる,"to gather, to come together",yes,N1
+N4,兄さん,にいさん,older brother,no,
+N4,シンプル,シンプル,simple,no,
+N4,チョコ,チョコ,chocolate,no,
+N4,残業,ざんぎょう,overtime work,no,
+N4,充電器,じゅうでんき,"charger, charging device",no,
+N4,マンション,マンション,"multistory apartment house, condominium",yes,N2
+N4,決まり,きまり,"settlement, conclusion, rule",yes,N3
+N4,未満,みまん,"less than, under",yes,N2
+N4,医学,いがく,medical science,yes,N4
+N4,林,はやし,"woods, forest",yes,N4
+N4,払う,はらう,to pay,yes,N4
+N4,たまに,たまに,occasionally,yes,N4
+N4,不幸,ふこう,"unhappiness, sorrow, misfortune",yes,N3
+N4,キャンプ,キャンプ,camp,yes,N3
+N4,書店,しょてん,bookshop,yes,N2
+N4,電池,でんち,battery,yes,N2
+N4,故障,こしょう,breakdown,yes,N4
+N4,オーバー,オーバー,"overcoat; over, exceeding, exaggeration",yes,N3
+N4,喉,のど,throat,yes,N3
+N4,割合,わりあい,"rate, ratio, percentage",yes,N4
+N4,湯,ゆ,hot water,yes,N4
+N4,ピザ,ピザ,pizza,no,
+N4,丼,どんぶり,"porcelain bowl, bowl of rice with food on top",yes,N2
+N4,すっかり,すっかり,"all, completely",yes,N4
+N4,湖,みずうみ,lake,yes,N4
+N4,ドンマイ,ドンマイ,"don't mind, no worries",no,
+N4,縦,たて,vertical; length; (縦ロール = ringlet curls),yes,N3
+N4,タンク,タンク,tank,no,
+N4,もしかして,もしかして,"perhaps, possibly",yes,N1
+N4,警察署,けいさつしょ,police station,no,
+N4,美術,びじゅつ,"art, fine arts",yes,N1
+N4,出席,しゅっせき,attendance,yes,N3
+N4,寺,てら,Buddhist temple,yes,N4
+N4,あっち側,あっちがわ,"that side, the other side",no,
+N4,レシピ,レシピ,recipe,no,
+N4,こうして,こうして,"like this, with this",yes,N2
+N4,よろしい,よろしい,"good, all right (polite)",yes,N3
+N4,アルコール,アルコール,alcohol,yes,N4
+N4,親子,おやこ,parent and child,no,
+N4,守り,まもり,"protection, defense; amulet",no,
+N4,向き,むき,"direction, facing, orientation",yes,N1
+N4,キーボード,キーボード,keyboard,no,
+N4,ログイン,ログイン,"login, log in",no,
+N4,回り,まわり,"turning, going around; surroundings",yes,N3
+N4,美容院,びよういん,"beauty salon, hair salon",no,
+N4,この世,このよ,this world / the living world,no,
+N4,タワー,タワー,tower,yes,N1
+N4,それなら,それなら,"If that's the case..., If so..., That being the case...",no,
+N4,ポスター,ポスター,poster,yes,N2
+N4,止める,やめる; とめる; とどめる,"to quit, to stop doing (やめる); to stop, to turn off (とめる); to keep, to limit to (とどめる)",yes,N4
+N4,踊り,おどり,dance,yes,N4
+N4,おもちゃ,おもちゃ,a toy,yes,N4
+N4,習慣,しゅうかん,custom (in reference to culture),yes,N4
+N4,あっちこっち,あっちこっち,"here and there, all over",no,
+N4,タイヤ; タイア,タイヤ; タイア,tire,yes,N2
+N4,お待たせしました,おまたせしました,Sorry to have kept you waiting,yes,N2
+N4,向かい,むかい,"facing, opposite, across",yes,N3
+N4,細かい,こまかい,"small; fine, minute",yes,N4
+N4,指輪,ゆびわ,(finger) ring,yes,N4
+N4,糸,いと,thread,yes,N4
+N4,ライバル,ライバル,rival,no,
+N4,度目,どめ,the Nth time (counter suffix),no,
+N4,トントン,トントン,"tap-tap, knocking sound; breaking even",no,
+N4,レンタル,レンタル,rental,no,
+N4,皿,さら,"plate, dish",yes,N3
+N4,体育祭,たいいくさい,"school sports day, athletic meet",no,
+N4,フロント,フロント,"front desk, reception (hotel); front",yes,N1
+N4,チップ,チップ,"gratuity, tip; chip",yes,N2
+N4,花火,はなび,fireworks,yes,N2
+N4,リズム,リズム,rhythm,yes,N2
+N4,聞こえる,きこえる,"to be heard, to be audible",yes,N4
+N4,アルバイト,アルバイト,part-time job,yes,N4
+N4,調べる,しらべる,to check; to look up; to inquire; to search,yes,N4
+N4,捨てる,すてる,"throw away (trash), dump, discard",yes,N4
+N4,この間,このあいだ,"the other day, recently",yes,N1
+N4,工業,こうぎょう,(manufacturing) industry,yes,N4
+N4,博物館,はくぶつかん,museum,yes,N3
+N4,ざるそば,ざるそば,cold soba noodles served on a bamboo tray,no,
+N4,落とす; 落す,おとす,to drop; to capture (a castle/territory),yes,N4
+N4,中学校,ちゅうがっこう,junior high school,yes,N4
+N4,美術館,びじゅつかん,"art gallery, art museum",yes,N4
+N4,おいでになる,おいでになる,"to be, to come, to go (honorific)",yes,N4
+N4,集める,あつめる,"to collect, to gather (things), to assemble",yes,N4
+N4,夜ごはん,よるごはん,"dinner, evening meal",no,
+N4,ホット,ホット,hot (e.g. hot drink),no,
+N4,カラオケ,カラオケ,karaoke,no,
+N4,鶏,にわとり,chicken (the bird),no,
+N4,正面,しょうめん,front,yes,N2
+N4,海岸,かいがん,"coast, seashore",yes,N4
+N4,負ける,まける,"to lose (a game), to be defeated",yes,N4
+N4,見つかる,みつかる,"to be found, to be discovered",yes,N4
+N4,輸出,ゆしゅつ,export,yes,N3
+N4,ちょい,ちょい,a little (casual),no,
+N4,引っ越し; 引越し,ひっこし,"moving (dwelling, office, etc.), changing residence",yes,N2
+N4,ペア,ペア,"pair, couple",yes,N1
+N4,テキスト,テキスト,text; text book,yes,N4
+N4,喜ぶ; 慶ぶ,よろこぶ,"to rejoice, to be delighted, to be glad",yes,N4
+N4,昼間,ひるま,"daytime, during the day",yes,N4
+N4,文学,ぶんがく,literature,yes,N4
+N4,救急車,きゅうきゅうしゃ,ambulance,no,
+N4,仮,かり,temporary; provisional,yes,N1
+N4,イエス; イェス,イエス; イェス,yes,yes,N1
+N4,パーク,パーク,park,no,
+N4,チェーン,チェーン,chain; chain store,no,
+N4,グラス,グラス,glass; grass,yes,N3
+N4,履歴書,りれきしょ,resume; curriculum vitae,no,
+N4,広場,ひろば,plaza,yes,N2
+N4,水道,すいどう,"water service, water line",yes,N4
+N4,寒さ,さむさ,"coldness, the cold",no,
+N4,頑張り,がんばり,"effort, perseverance",no,
+N4,ソング,ソング,song,no,
+N4,コンビ,コンビ,"pair, combo, duo",no,
+N4,許す,ゆるす,"to permit, to allow, to approve",yes,N3
+N4,後輩,こうはい,junior members of a group,yes,N2
+N4,マラソン,マラソン,marathon,yes,N2
+N4,サラダ,サラダ,salad,yes,N4
+N4,校長,こうちょう,"principal, headmaster",yes,N4
+N4,遠慮,えんりょ,"restraint, reserve, hesitate",yes,N4
+N4,パンチ,パンチ,punch,no,
+N4,フード,フード,hood (on clothing),no,
+N4,分間,ふんかん,minutes (duration); e.g. 10分間,no,
+N4,桃,もも,peach,no,
+N4,あんま,あんま,"not very, not much (casual)",no,
+N4,パッ,パッ,"suddenly, quickly (onomatopoeia for swift action)",no,
+N4,パスワード,パスワード,password,no,
+N4,クイズ,クイズ,quiz,yes,N1
+N4,奥様; 奥さま,おくさま,"(someone else's) wife, madam",no,
+N4,いただく; 頂く,いただく,"to receive (humble); to eat, to drink (humble)",yes,N3
+N4,お宅,おたく,someone else's home (polite); your family,yes,N4
+N4,比べる,くらべる,to compare,yes,N4
+N4,発音,はつおん,pronunciation,yes,N4
+N4,なるべく,なるべく,"if possible, as much as possible",yes,N4
+N4,通う,かよう,to go back and forth; to commute,yes,N4
+N4,パーカー,パーカー,"hoodie, parka",no,
+N4,悲しみ,かなしみ,"sadness, sorrow",no,
+N4,柱,はしら,pillar; column; post,yes,N1
+N4,キッチン,キッチン,kitchen,no,
+N4,頭痛,ずつう,headache,yes,N3
+N4,ガイド,ガイド,guide,yes,N1
+N4,ゴム,ゴム,"gum, rubber",yes,N2
+N4,お土産,おみやげ,souvenir,yes,N4
+N4,砂,すな,sand,yes,N4
+N4,ミリ,ミリ,millimeter,yes,N2
+N4,朝食,ちょうしょく,breakfast,no,
+N4,見方,みかた,"way of looking, perspective, viewpoint",yes,N1
+N4,水道代,すいどうだい,water bill,no,
+N4,ジャズ,ジャズ,jazz,yes,N1
+N4,一生懸命,いっしょうけんめい,"very hard (as in ""to work hard""), with utmost effort",yes,N4
+N4,軒,のき,eaves,yes,N3
+N4,迎える,むかえる,to welcome; to meet; to greet,yes,N4
+N4,頑張る,がんばる,"to try one's best, to try hard, to persist",no,
+N4,お礼,おれい,expression of gratitude; thanking; gift of appreciation; bow,yes,N4
+N4,だす,だす,"suffix: to start doing, after a verb stem (泣きだす = to burst into tears)",no,
+N4,随分,ずいぶん,extremely,yes,N3
+N4,ご存じ; ご存知,ごぞんじ,"knowing, acquaintance",yes,N4
+N4,看護婦,かんごふ,(female) nurse,no,
+N4,クッキー,クッキー,cookie,no,
+N4,時刻表,じこくひょう,"timetable, (train) schedule",yes,N1
+N4,貯金,ちょきん,(bank) savings,yes,N3
+N4,一生懸命に,いっしょうけんめいに,"with all one's effort, as hard as one can",no,
+N4,モニター,モニター,(computer) monitor,yes,N1
+N4,ナイス,ナイス,"nice, good (as in 'nice shot')",no,
+N4,もったいない,もったいない,"wasteful, too good for",yes,N2
+N4,お疲れ様; お疲れさま,おつかれさま,"good work, thanks for your effort",no,
+N4,順番に,じゅんばんに,"in order, in turn",no,
+N4,ドラム,ドラム,drum(s),no,
+N4,公務員,こうむいん,"government worker, public servant",yes,N4
+N4,貿易,ぼうえき,trade,yes,N4
+N4,打つ,うつ,"to hit, to strike",yes,N4
+N4,おいおい,おいおい,hey hey (exasperation),no,
+N4,店長,てんちょう,"store manager, shop manager",no,
+N4,ステップ,ステップ,"step; footstep, dance step",no,
+N4,羊,ひつじ,sheep,no,
+N4,出張,しゅっちょう,"official tour, business trip",yes,N2
+N4,羨ましい,うらやましい,"envious, enviable",yes,N2
+N4,休暇,きゅうか,"vacation, holiday, day off",yes,N3
+N4,お疲れ様でした,おつかれさまでした,"good work today, thanks for your hard work",no,
+N4,パチンコ,パチンコ,pachinko (Japanese pinball),yes,N1
+N4,オイル,オイル,oil,yes,N2
+N4,西洋,せいよう,"the West, Western countries",yes,N4
+N4,食料品,しょくりょうひん,"foodstuff, groceries",yes,N4
+N4,育てる,そだてる,"to raise, to bring up",yes,N4
+N4,棚,たな,"shelves, rack",yes,N4
+N4,姉ちゃん,ねえちゃん,older sister (informal); also used as address to young women,no,
+N4,リクエスト,リクエスト,request,no,
+N4,ラッキー,ラッキー,lucky,no,
+N4,牛丼,ぎゅうどん,beef rice bowl,no,
+N4,エンジニア,エンジニア,engineer,yes,N1
+N4,ストップ,ストップ,stop,yes,N2
+N4,できるだけ,できるだけ,"if at all possible, as much as possible",yes,N3
+N4,枝,えだ,"branch, twig",yes,N4
+N4,講義,こうぎ,a lecture,yes,N4
+N4,エアコン,エアコン,air conditioner,no,
+N4,気づく; 気付く,きづく,"to notice, to realize, to become aware",yes,N3
+N4,ミュージック,ミュージック,music,yes,N1
+N4,帰国,きこく,returning to one's country,no,
+N4,熱心,ねっしん,enthusiasm,yes,N3
+N4,世話,せわ,looking after; to look after,yes,N3
+N4,メダル,メダル,medal,no,
+N4,ガソリン,ガソリン,"gasoline, petrol",yes,N4
+N4,立てる,たてる,"to stand (something) up, to erect (something)",yes,N4
+N4,レジ,レジ,register,yes,N4
+N4,両手,りょうて,both hands,no,
+N4,絵本,えほん,picture book,no,
+N4,シール,シール,"sticker, seal",no,
+N4,タブレット,タブレット,tablet (device),no,
+N4,乗り換え; 乗換,のりかえ,"transfer, change (of trains, buses, etc.)",yes,N2
+N4,ばかやろう; バカヤロー; 馬鹿野郎,ばかやろう,"you idiot!, you fool! (strong insult)",no,
+N4,グレー,グレー,"grey, gray",yes,N1
+N4,リボン,リボン,ribbon,yes,N2
+N4,いってまいります,いってまいります,"I'm going, see you later (said when leaving home)",yes,N2
+N4,学部,がくぶ,department of a university,yes,N2
+N4,景色,けしき,"scenery, landscape",yes,N4
+N4,踊る,おどる,to dance,yes,N4
+N4,キック,キック,kick,no,
+N4,お断り,おことわり,"refusal, declining",no,
+N4,髪型; 髪形,かみがた,hairstyle,no,
+N4,レッスン,レッスン,lesson,yes,N1
+N4,めんどくさい; 面倒くさい; 面倒臭い,めんどうくさい; めんどくさい,"bothersome, a pain",yes,N2
+N4,味噌,みそ,"miso, bean paste",yes,N4
+N4,眠り,ねむり,"sleep, slumber",no,
+N4,回る,まわる,"to go around, to visit",yes,N4
+N4,ようこそ,ようこそ,welcome!,no,
+N4,キャッチ,キャッチ,catch,yes,N1
+N4,サラリーマン,サラリーマン,salaryman; company employee,yes,N2
+N4,テニスコート,テニスコート,tennis court,yes,N2
+N4,贈り物,おくりもの,a gift; a present,yes,N4
+N4,特急,とっきゅう,limited express (train faster than an express),yes,N4
+N4,運ぶ,はこぶ,"to transport, to carry",yes,N4
+N4,今頃,いまごろ,"about now, by now",no,
+N4,泊,はく,counter for nights of lodging (一泊 = one night's stay),yes,N1
+N4,手伝い,てつだい,"help, helper, assistant",yes,N3
+N4,バッジ,バッジ,badge,yes,N1
+N4,蛇,へび,snake,no,
+N4,大抵,たいてい,"generally, usually",yes,N3
+N4,泥棒,どろぼう,thief; burglar,yes,N4
+N4,承知,しょうち,"consent, acceptance",yes,N3
+N4,何者; 何もの,なにもの,"who, what kind of person",no,
+N4,年上,としうえ,"older, senior in age",no,
+N4,節約,せつやく,"economizing, saving",yes,N3
+N4,ボーっと; ボーッと,ぼーっと,"absent-mindedly, spacing out, in a daze",no,
+N4,注射,ちゅうしゃ,injection,yes,N4
+N4,年寄り; 年寄,としより,old person/elderly,yes,N3
+N4,片足; 片脚,かたあし,"one leg, one foot",no,
+N4,回す,まわす,"to turn, to rotate; to make (someone) an enemy (敵に回す)",yes,N3
+N4,戻す,もどす,"to restore, to put back, to return",yes,N3
+N4,レンジ,レンジ,microwave oven; cooking range,yes,N1
+N4,決まる,きまる,"to be decided, to be set",yes,N1
+N4,スクリーン,スクリーン,screen,yes,N4
+N4,片方,かたほう,"one side, one of a pair",no,
+N4,忍者,にんじゃ,ninja,no,
+N4,焼肉,やきにく,"grilled meat, yakiniku",no,
+N4,ヒント,ヒント,hint,yes,N1
+N4,プリント,プリント,"print, handout",yes,N2
+N4,ステーキ,ステーキ,steak,yes,N4
+N4,役に立つ,やくにたつ,"to be helpful, to be useful",yes,N4
+N4,お陰,おかげ,thanks or owing to,no,
+N4,落ち着く; 落着く,おちつく,to calm down; to settle; to stabilize,yes,N2
+N4,キラキラ,キラキラ,"sparkling, glittering (onomatopoeia)",no,
+N4,知人,ちじん,"friend, acquaintance",yes,N2
+N4,ランプ,ランプ,lamp; ramp,yes,N1
+N4,とうとう,とうとう,"finally, at last",yes,N4
+N4,治る,なおる,"to get better, to recover from illness",yes,N4
+N4,こら,こら,hey! (scolding),no,
+N4,レール,レール,"rail, railroad track",no,
+N4,パズル,パズル,puzzle,no,
+N4,進学,しんがく,going on to university,yes,N3
+N4,部活,ぶかつ,"club activity, extracurricular activity",no,
+N4,気候,きこう,climate,yes,N3
+N4,餃子; ギョーザ,ぎょうざ,"gyoza, Japanese dumplings",no,
+N4,ボーカル,ボーカル,vocals; vocalist,no,
+N4,オーディション,オーディション,audition,no,
+N4,カニ; 蟹,かに,crab,no,
+N4,嘘つき; ウソつき,うそつき,liar,yes,N1
+N4,正月,しょうがつ,"New Year, New Year's Day",no,
+N4,まんま,まんま,"as it is, unchanged (casual まま); also baby talk for food",no,
+N4,夕食,ゆうしょく,dinner; evening meal,no,
+N4,学年,がくねん,"year in school, grade in school",yes,N2
+N4,骨折,こっせつ,bone fracture,yes,N3
+N4,それに,それに,moreover; besides,yes,N4
+N4,投げる,なげる,to throw,yes,N4
+N4,アナウンサー,アナウンサー,announcer,yes,N4
+N4,引き出し,ひきだし,drawer,yes,N4
+N4,天気予報,てんきよほう,weather forecast,yes,N4
+N4,フルーツ,フルーツ,fruit,no,
+N4,時間どおり,じかんどおり,on time; as scheduled,no,
+N4,作り方,つくりかた,"how to make, recipe, method of making",no,
+N4,いい加減,いいかげん,"sloppy, irresponsible; half-hearted",yes,N1
+N4,ロープ,ロープ,rope,yes,N1
+N4,光る,ひかる,"to shine, to glitter",yes,N4
+N4,旅館,りょかん,a Japanese inn,yes,N4
+N4,バレる,ばれる,"to be found out, exposed",no,
+N4,左手,ひだりて,left hand,no,
+N4,ビーム,ビーム,beam (of light or energy); laser beam,no,
+N4,本屋,ほんや,bookstore,no,
+N4,壊す,こわす,"to break, to break down",yes,N4
+N4,用事,ようじ,business to take care of; tasks; errands,yes,N4
+N4,ジョーク,ジョーク,joke,no,
+N4,ベリー,ベリー,berry,no,
+N4,プリン,プリン,pudding (dessert),no,
+N4,ダッシュ,ダッシュ,"dash, sprint",no,
+N4,家賃,やちん,rent,yes,N3
+N4,電子レンジ,でんしれんじ,microwave oven,no,
+N4,隅,すみ,corner,yes,N4
+N4,大声,おおごえ,loud voice; shout,no,
+N4,イヤホン,イヤホン,"earphones, earbuds",no,
+N4,アンド,アンド,and,no,
+N4,タップ,タップ,tap (gesture or action),no,
+N4,道に迷う,みちにまよう,"to get lost, to lose one's way",no,
+N4,定価,ていか,established price,yes,N2
+N4,進路,しんろ,"course, path; future plans (career/school guidance)",yes,N1
+N4,祈る,いのる,to pray; to wish,yes,N4
+N4,水泳,すいえい,swimming,yes,N4
+N4,うっさい,うっさい,noisy; annoying; shut up (casual),no,
+N4,オン,オン,on (switched on),no,
+N4,ペンギン,ペンギン,penguin,no,
+N4,緑色,みどりいろ,green (color),no,
+N4,国語,こくご,national language,yes,N3
+N4,大雨,おおあめ,heavy rain,no,
+N4,すると,すると,"and, then",yes,N4
+N4,触る,さわる,"to touch, to feel",yes,N4
+N4,火事,かじ,fire,yes,N4
+N4,近づく; 近付く,ちかづく,to approach,yes,N1
+N4,浮かぶ; 浮ぶ,うかぶ,"to float, to appear, to come to mind",yes,N2
+N4,ヨーグルト,ヨーグルト,yogurt,no,
+N4,クレジットカード,クレジットカード,credit card,no,
+N4,伯父; 叔父,おじ,"uncle (伯父: parent's older brother, 叔父: parent's younger brother)",no,
+N4,焼く,やく,"to bake, to grill",yes,N4
+N4,屋上,おくじょう,rooftop,yes,N4
+N4,柔道,じゅうどう,judo,yes,N4
+N4,塗る,ぬる,"to paint, to plaster",yes,N4
+N4,ネギ,ネギ,"leek, green onion",no,
+N4,返ってくる,かえってくる,"to come back, return",no,
+N4,付き合う; 付合う,つきあう,"to associate with, to keep company with; to go out with (date)",yes,N2
+N4,パンダ,パンダ,panda,no,
+N4,名刺,めいし,business card,yes,N2
+N4,郊外,こうがい,"suburb, outskirts",yes,N4
+N4,眠る,ねむる,to sleep,yes,N4
+N4,たこ; タコ,たこ,octopus,no,
+N4,麦,むぎ,"wheat, barley, grain",no,
+N4,オペラ,オペラ,opera,no,
+N4,いらっしゃる,いらっしゃる,"to come, to go, to be (honorific)",yes,N4
+N4,無くなる,なくなる,"to disappear, to get lost",yes,N4
+N4,歯医者,はいしゃ,dentist,yes,N4
+N4,コンピュータ; コンピューター,コンピュータ; コンピューター,computer,yes,N4
+N4,すり; スリ,すり,pickpocket,yes,N4
+N4,真夏,まなつ,"midsummer, height of summer",no,
+N4,悔しい,くやしい,"regrettable, mortifying, vexing",yes,N2
+N4,ブーツ,ブーツ,boots,yes,N1
+N4,カラス; 鴉,からす,"crow, raven",no,
+N4,おつり,おつり,change; balance of money returned to the purchaser,yes,N4
+N4,間に合う,まにあう,to be in time for,yes,N4
+N4,お家,おうち,"home, house (polite/child-friendly form)",no,
+N4,ストライク,ストライク,"strike (baseball, bowling)",no,
+N4,ラグビー,ラグビー,rugby,no,
+N4,おかず,おかず,"side dish, accompaniment for rice dishes",yes,N2
+N4,課長,かちょう,section manager,yes,N4
+N4,手袋,てぶくろ,glove(s),yes,N4
+N4,部員,ぶいん,"club member, team member",no,
+N4,グッド,グッド,good,no,
+N4,慣れる,なれる,to grow accustomed to,yes,N4
+N4,おしまい,おしまい,"the end, that's it, finished",no,
+N4,急ぎ,いそぎ,"haste, urgency; urgent",no,
+N4,メロン,メロン,melon,no,
+N4,盛ん,さかん,"prosperous, active, thriving",yes,N4
+N4,下げる,さげる,to lower; to hang,yes,N4
+N4,つまみ,つまみ,"snack to go with drinks; knob, handle",no,
+N4,キノコ,キノコ,mushroom,no,
+N4,体育館,たいいくかん,gymnasium,no,
+N4,栗,くり,chestnut,no,
+N4,退屈,たいくつ,"tedium, boring",yes,N3
+N4,パスポート,パスポート,passport,yes,N3
+N4,文法,ぶんぽう,grammar,yes,N4
+N4,遅れる,おくれる,to (be) become late,yes,N4
+N4,バレー,バレー,volleyball,no,
+N4,放課後,ほうかご,after school,no,
+N4,シャンプー,シャンプー,shampoo,no,
+N4,市役所,しやくしょ,city hall,no,
+N4,知らせ,しらせ,notice,yes,N3
+N4,おしっこ,おしっこ,pee (childish word),no,
+N4,拝見,はいけん,"(humble) (polite) seeing, look at",yes,N4
+N4,腕時計,うでどけい,wristwatch,no,
+N4,コーンスープ,コーンスープ,"corn soup, cream of corn",no,
+N4,浅い,あさい,"shallow, superficial",yes,N4
+N4,着物,きもの,kimono; Japanese traditional dress,yes,N4
+N4,コーラ,コーラ,cola (drink),no,
+N4,ミスター,ミスター,"Mr., mister",no,
+N4,ゴミ箱,ごみばこ,trash can,no,
+N4,試す,ためす,"to attempt, to test",yes,N3
+N4,柔らかい,やわらかい,"soft (in reference to texture), tender",yes,N4
+N4,揺れる,ゆれる,"to shake, to sway",yes,N4
+N4,固い; 硬い; 堅い,かたい,"hard, firm, solid",yes,N4
+N4,カーテン,カーテン,curtain,yes,N4
+N4,おでん,おでん,oden (Japanese hot pot dish),no,
+N4,薬局,やっきょく,"pharmacy, drugstore",yes,N2
+N4,育つ,そだつ,"to be brought up, to grow (up)",yes,N3
+N4,壊れる,こわれる,"to be broken, to break",yes,N4
+N4,畳,たたみ,tatami mat,yes,N4
+N4,ハンバーグ,ハンバーグ,hamburger steak,no,
+N4,騒ぐ,さわぐ,"to make noise, to clamor",yes,N4
+N4,お見舞い,おみまい,"calling on someone who is ill, visit",yes,N4
+N4,アクセサリー,アクセサリー,accessory,yes,N4
+N4,別れる,わかれる,"to part from, to separate",yes,N4
+N4,朝飯; 朝メシ,あさめし,breakfast (casual),no,
+N4,運動会,うんどうかい,"sports day, athletic meet",no,
+N4,年下,としした,"younger person, one's junior",no,
+N4,ベーコン,ベーコン,bacon,no,
+N4,体温,たいおん,temperature (body),yes,N3
+N4,ヨガ,ヨガ,yoga,no,
+N4,飾る,かざる,"to decorate, to adorn",yes,N4
+N4,冷房,れいぼう,"cooling, air conditioning",yes,N4
+N4,アシスタント,アシスタント,assistant,no,
+N4,赤色,あかいろ,red color,no,
+N4,ジャム,ジャム,jam,yes,N4
+N4,急行,きゅうこう,express train or bus,yes,N4
+N4,気の毒,きのどく,"pitiful, a pity",yes,N3
+N4,ゼリー,ゼリー,jelly,yes,N1
+N4,宝物,たからもの,"treasure, precious thing",no,
+N4,真夜中,まよなか,midnight,no,
+N4,定食,ていしょく,"fixed-price lunch, set meal, dinner",yes,N1
+N4,刺身,さしみ,sliced raw fish,yes,N2
+N4,外人,がいじん,foreigner,no,
+N4,痩せる,やせる,to lose weight,yes,N4
+N4,謝る,あやまる,to apologize,yes,N4
+N4,花見,はなみ,cherry-blossom viewing,yes,N4
+N4,スマイル,スマイル,smile,no,
+N4,ジャングル,ジャングル,jungle,no,
+N4,生む,うむ,"to give birth to, to produce, to bring about",no,
+N4,青色,あおいろ,blue color,no,
+N4,下痢,げり,diarrhea,yes,N1
+N4,ハンバーガー,ハンバーガー,hamburger,no,
+N4,サンドイッチ,サンドイッチ,sandwich,yes,N4
+N4,舟,ふね,"ship, boat",yes,N4
+N4,断る; 断わる,ことわる,"to refuse, to decline, to dismiss",yes,N3
+N4,改札口,かいさつぐち,"ticket gate, turnstile",no,
+N4,かび; カビ,かび,"mold, mildew",no,
+N4,掛ける,かける,"to put on (e.g., glasses); to hang (e.g., on a wall)",yes,N4
+N4,辞典,じてん,dictionary,yes,N4
+N4,倒れる,たおれる,"to collapse, to break down",yes,N4
+N4,バスケ,バスケ,basketball,no,
+N4,ソーセージ,ソーセージ,sausage,no,
+N4,白黒,しろくろ,black and white,no,
+N4,書き方,かきかた,"way of writing, how to write",no,
+N4,よっしゃ,よっしゃ,alright! / yes!,no,
+N4,サンキュー,サンキュー,thank you,yes,N1
+N4,支度,したく,preparation,yes,N3
+N4,どいつ,どいつ,"who, which one (rude)",no,
+N4,図書室,としょしつ,library room (school library),no,
+N4,打ち合わせ; 打合せ,うちあわせ,"meeting, briefing, prior arrangement",yes,N2
+N4,お嬢さん,おじょうさん,(someone's) daughter (polite),yes,N4
+N4,乗り物,のりもの,vehicle,yes,N4
+N4,チビ,チビ,"shorty, small person",no,
+N4,新年,しんねん,New Year,no,
+N4,北西,ほくせい,northwest,no,
+N4,地理,ちり,geography,yes,N4
+N4,小鳥,ことり,small bird,yes,N4
+N4,退院,たいいん,leaving hospital,yes,N4
+N4,移る,うつる,to move (from a house); to transfer (from a department); to shift,yes,N4
+N4,バーベキュー,バーベキュー,"barbecue, BBQ",no,
+N4,向ける,むける,"to turn towards, to point",yes,N3
+N4,鳴る,なる,"to sound, to ring",yes,N4
+N4,確かめる,たしかめる,"to ascertain, to make sure",yes,N3
+N4,間違える,まちがえる,to make a mistake,yes,N4
+N4,届ける,とどける,to deliver,yes,N4
+N4,バス停,ばすてい,bus stop,no,
+N4,キャンディ,キャンディ,candy,no,
+N4,読み方,よみかた,way of reading; reading (of kanji),no,
+N4,下品,げひん,"vulgar, indecent, coarse",yes,N2
+N4,紅葉,こうよう; もみじ,"autumn colours, leaves turning red (こうよう); autumn leaves, Japanese maple (もみじ)",yes,N2
+N4,お好み焼き,おこのみやき,savory pancake with various toppings,no,
+N4,やあ,やあ,"hi, hey",no,
+N4,ジャージ,ジャージ,jersey / tracksuit,no,
+N4,ココア,ココア,"cocoa, hot chocolate",no,
+N4,カラフル,カラフル,colorful,no,
+N4,北東,ほくとう,northeast,no,
+N4,赤ん坊,あかんぼう,baby,yes,N4
+N4,展覧会,てんらんかい,exhibition,yes,N4
+N4,ポーチ,ポーチ,"pouch, small bag",no,
+N4,葉っぱ,はっぱ,leaf,no,
+N4,西口,にしぐち,west exit/entrance,no,
+N4,理科,りか,science,yes,N2
+N4,建てる,たてる,to build,yes,N4
+N4,暖房,だんぼう,heating,yes,N4
+N4,ステレオ,ステレオ,stereo,yes,N4
+N4,お子さん,おこさん,(someone else's) child (polite),no,
+N4,込む,こむ,to be crowded,yes,N4
+N4,お守り,おまもり,"amulet, charm, talisman",no,
+N4,子犬,こいぬ,puppy,no,
+N4,南西,なんせい,southwest,no,
+N4,売り場,うりば,place where things are sold,yes,N4
+N4,食器,しょっき,tableware,yes,N2
+N4,鶏肉,とりにく,chicken meat,no,
+N4,半日,はんにち; はんじつ,half a day,no,
+N4,焼き鳥,やきとり,grilled chicken skewers,no,
+N4,噛む,かむ,"to bite, to chew",yes,N4
+N4,サンダル,サンダル,sandal,yes,N4
+N4,留守,るす,absence; not at home,yes,N4
+N4,大きめ,おおきめ,"somewhat large, on the large side",no,
+N4,ナッツ,ナッツ,nuts (food),no,
+N4,バイバイ,バイバイ,bye bye,yes,N2
+N4,持ち物,もちもの,"one's belongings, personal effects",no,
+N4,鮭,しゃけ,salmon,no,
+N4,取り上げる,とりあげる,"to take up, to pick up; to confiscate",yes,N3
+N4,炊飯器,すいはんき,rice cooker,no,
+N4,拾う,ひろう,"to pick up (something), to find",yes,N4
+N4,締め切り; 締切,しめきり,"deadline, closing, cut-off, end",yes,N2
+N4,器用,きよう,"skillful, handy",yes,N3
+N4,たこ焼き,たこやき,takoyaki (octopus dumplings),no,
+N4,踏む,ふむ,"to step on, to tread on",yes,N4
+N4,片付ける; 片づける,かたづける,"to tidy up, to put away",yes,N4
+N4,村人,むらびと,villager,no,
+N4,トリオ,トリオ,trio,no,
+N4,シチュー,シチュー,stew,no,
+N4,コロッケ,コロッケ,croquette,no,
+N4,ハッピーバースデー,ハッピーバースデー,happy birthday,no,
+N4,ゆで卵,ゆでたまご,boiled egg,no,
+N4,ポット,ポット,pot,yes,N1
+N4,南東,なんとう,southeast,no,
+N4,グッバイ,グッバイ,goodbye,no,
+N4,ご苦労様,ごくろうさま,Thank you for your hard work,yes,N1
+N4,オイ,オイ,hey!,no,
+N4,お絵描き,おえかき,drawing pictures (child-friendly term),no,
+N4,うざい,うざい,"annoying, irritating; colloquial",no,
+N4,クリーニング,クリーニング,"cleaning, dry cleaning, laundry service",yes,N2
+N4,母ちゃん,かあちゃん,mom,no,
+N4,スーツケース,スーツケース,suitcase,yes,N4
+N4,お化け,おばけ,"ghost, monster, apparition",no,
+N4,クローゼット,クローゼット,closet; wardrobe,no,
+N4,サイコロ,サイコロ,dice,no,
+N4,取り出す,とりだす,"to take out, to pick out",yes,N2
+N4,クリーニング屋,クリーニングや,"dry cleaner, laundry service",no,
+N4,横断歩道,おうだんほどう,"pedestrian crossing, crosswalk",no,
+N4,燃えるごみ,もえるごみ,"burnable trash, combustible garbage",no,
+N4,エスカレーター,エスカレーター,escalator,yes,N4
+N4,けがする,けがする,to get hurt; to be injured,no,
+N4,電灯,でんとう,electric light,yes,N4
+N4,昼休み,ひるやすみ,"lunch break, noon recess",yes,N4
+N4,チャーハン,チャーハン,fried rice,no,
+N4,知らせる,しらせる,to notify,yes,N4
+N4,亡くなる,なくなる,to pass away,yes,N4
+N4,ウンコ,ウンコ,"poop, excrement (colloquial)",no,
+N4,叔母,おば,aunt (younger than one's parent),no,
+N4,雀; スズメ,すずめ,sparrow,no,
+N4,太る,ふとる,to gain weight,yes,N4
+N4,半袖,はんそで,short sleeves,no,
+N4,歯ブラシ,はぶらし,toothbrush,no,
+N4,スペル,スペル,spelling,no,
+N4,和食,わしょく,Japanese cuisine,no,
+N4,折れる,おれる,"to break, to be folded, to give in; to turn (a corner)",yes,N4
+N4,レシート,レシート,receipt,no,
+N4,泊まる,とまる,to stay (overnight),yes,N4
+N4,忘れ物,わすれもの,"lost article, something forgotten",yes,N4
+N4,気合い,きあい,"fighting spirit, vigor",no,
+N4,右肩,みぎかた,right shoulder,no,
+N4,ビンゴ,ビンゴ,bingo; got it! (that's right),no,
+N4,マンゴー,マンゴー,mango,no,
+N4,たんす; タンス,たんす,"chest of drawers, dresser",yes,N2
+N4,復習,ふくしゅう,"review (of lessons), revision",yes,N4
+N4,見物,けんぶつ,sightseeing,yes,N4
+N4,お子様,おこさま,child (polite),no,
+N4,ピッチャー,ピッチャー,pitcher (baseball),no,
+N4,クラスメイト; クラスメート,クラスメイト; クラスメート,classmate,no,
+N4,オフライン,オフライン,offline,no,
+N4,生かす,いかす,to keep something alive; to make use of,yes,N1
+N4,算数,さんすう,arithmetic,yes,N2
+N4,海水浴,かいすいよく,"sea bathing, seawater bath",yes,N2
+N4,おむつ; オムツ,おむつ,"diaper, nappy",yes,N1
+N4,カボチャ,カボチャ,"pumpkin, squash",no,
+N4,塵,ちり,dust,no,
+N4,鼻水,はなみず,runny nose; nasal discharge,no,
+N4,盗む,ぬすむ,to steal; to rob,yes,N4
+N4,尋ねる,たずねる,to inquire (same as 質問する),yes,N4
+N4,眉毛,まゆげ,eyebrow,no,
+N4,左上,ひだりうえ,upper left,no,
+N4,ちっとも,ちっとも,not at all (with a negative verb),yes,N4
+N4,寄る,よる,to stop by,yes,N4
+N4,右足,みぎあし,"right foot, right leg",no,
+N4,食パン,しょくぱん,"white bread, loaf bread",no,
+N4,転勤,てんきん,transfer (to another office of a company),yes,N1
+N4,捕まえる,つかまえる,"to catch, to arrest",yes,N4
+N4,両足,りょうあし,both legs/feet,no,
+N4,左足,ひだりあし,"left foot, left leg",no,
+N4,鼻血,はなぢ,nosebleed,no,
+N4,チュー,チュー,kiss (casual); squeak,no,
+N4,ダーリン,ダーリン,darling (term of address),no,
+N4,絹,きぬ,silk,yes,N4
+N4,飛行場,ひこうじょう,airport,yes,N4
+N4,下る,くだる,"to descend, to drop, to fall",yes,N4
+N4,急ぐ,いそぐ,"to hurry, to be in a hurry, to rush",yes,N4
+N4,腹痛,ふくつう,stomachache; abdominal pain,no,
+N4,足りる,たりる,to be sufficient; to be enough,yes,N4
+N4,手伝う,てつだう,to help,yes,N4
+N4,シロップ,シロップ,syrup,no,
+N4,ギタリスト,ギタリスト,guitarist,no,
+N4,次女,じじょ,second daughter,no,
+N4,折る,おる,"to snap, to break; to bend",yes,N4
+N4,ガソリンスタンド,ガソリンスタンド,"gas station, service station",yes,N4
+N4,じい,じい,old man; grandpa (casual),no,
+N4,こんにゃく,こんにゃく,konjac (food),no,
+N4,お母様; お母さま,おかあさま,mother (very polite/formal form),no,
+N4,褒める,ほめる,to praise; to say nice things,yes,N3
+N4,ちょこっと,ちょこっと,a little bit (casual),no,
+N4,ヤダ,ヤダ,"no way, I don't want to (casual)",no,
+N4,へそ; ヘソ,へそ,"navel, belly button",yes,N2
+N4,オートバイ,オートバイ,motorcycle,yes,N4
+N4,引っ越す,ひっこす,to move to a new place of residence,yes,N4
+N4,割れる,われる,to break,yes,N4
+N4,長袖,ながそで,long sleeves,no,
+N4,乾く,かわく,to get dry,yes,N4
+N4,滑る,すべる,"to slide, to slip",yes,N4
+N4,ファックス,ファックス,fax,yes,N4
+N4,花屋,はなや,"flower shop, florist",no,
+N4,ブランコ,ブランコ,swing (playground),no,
+N4,左下,ひだりした,lower left,no,
+N4,遠足,えんそく,"trip, hike, picnic",yes,N2
+N4,ごちそう,ごちそう,"feast, treating (someone)",yes,N4
+N4,まんじゅう,まんじゅう,steamed bun with sweet bean filling,no,
+N4,下ろす,おろす,"to lower, to take down",no,
+N4,寝坊,ねぼう,sleeping in late,yes,N4
+N4,汽車,きしゃ,train (steam),yes,N4
+N4,お寺,おてら,"temple (Buddhist, polite form)",no,
+N4,品物,しなもの,goods,yes,N4
+N4,下宿,げしゅく,"lodging, boarding house",yes,N4
+N4,電報,でんぽう,telegram,yes,N4
+N4,トイレットペーパー,トイレットペーパー,toilet paper,no,
+N4,乗り換える,のりかえる,"to transfer (trains), to change (bus, train, etc.)",yes,N4
+N4,転校生,てんこうせい,transfer student,no,
+N4,デリバリー,デリバリー,delivery,no,
+N4,包帯,ほうたい,bandage,yes,N2
+N4,ローマ字,ローマじ,"romanization, Roman letters (alphabet)",yes,N1
+N4,ガールフレンド,ガールフレンド,girlfriend,no,
+N4,かゆい,かゆい,"itchy, itching",yes,N2
+N4,ミュージックビデオ,ミュージックビデオ,music video,no,
+N4,スリッパ,スリッパ,slippers,yes,N5
+N4,文房具,ぶんぼうぐ,stationery,yes,N2
+N4,父ちゃん,とうちゃん,"dad, daddy (casual)",no,
+N4,村長,そんちょう,"village chief, village mayor",no,
+N4,婆さん,ばあさん,"old woman, granny (informal/sometimes slightly rude)",no,
+N4,食後,しょくご,after a meal,no,
+N4,頼もしい,たのもしい,"reliable, promising",yes,N2
+N4,まいった,まいった,I give up; I'm beaten; oh no,no,
+N4,あんこ,あんこ,red bean paste,no,
+N4,足す,たす,to add (numbers),yes,N4
+N4,濡れる,ぬれる,to get wet,yes,N3
+N4,悲しむ,かなしむ,"to be sad, to mourn for, to regret",yes,N3
+N4,いじめる,いじめる,"to bully, to torment",yes,N4
+N4,オムライス,オムライス,omurice (rice omelette dish),no,
+N4,大人しい,おとなしい,"obedient, docile, quiet",yes,N1
+N4,冷える,ひえる,"to grow cold, to cool down",yes,N4
+N4,暖かさ,あたたかさ,warmth,no,
+N4,山道,やまみち,mountain road/path,no,
+N4,ミニゲーム,ミニゲーム,mini-game,no,
+N4,暖か,あたたか,warm,no,
+N4,消防署,しょうぼうしょ,fire station,yes,N2
+N4,焼ける,やける,"to burn, to be roasted",yes,N4
+N4,訪ねる,たずねる,to visit,yes,N4
+N4,短パン,たんぱん,"shorts, short pants",no,
+N4,すき焼き,すきやき,sukiyaki,no,
+N4,止む,やむ,"to cease, to stop",yes,N4
+N4,包む,つつむ,"to wrap, to cover",yes,N4
+N4,汚れる,よごれる,to become dirty,yes,N4
+N4,間違う,まちがう,"to be wrong, to make a mistake",yes,N1
+N4,ヘイ,ヘイ,hey!,no,
+N4,麦茶,むぎちゃ,barley tea,no,
+N4,ポーク,ポーク,pork,no,
+N4,予習,よしゅう,preparation of lessons (for class),yes,N4
+N4,けんかする,けんかする,"to quarrel, to fight",no,
+N4,カレーライス,カレーライス,curry and rice,no,
+N4,サンタクロース,サンタクロース,Santa Claus,yes,N1
+N4,床屋,とこや,barber's (shop),yes,N2
+N4,ドレッシング,ドレッシング,salad dressing,no,
+N4,ダメダメ,ダメダメ,"no, no; hopeless, useless (casual)",no,
+N4,選び方,えらびかた,"way of choosing, how to choose",no,
+N4,着替える,きがえる,to change (one's) clothes,no,
+N4,家内,かない,(one's own) wife,yes,N4
+N4,乗り場,のりば,"bus stop, boarding area, platform",no,
+N4,洋食,ようしょく,Western-style food,no,
+N4,左目,ひだりめ,left eye,no,
+N4,物置,ものおき,storage room,yes,N2
+N4,ジンジャーエール,ジンジャーエール,ginger ale,no,
+N4,なさる,なさる,to do (honorific),yes,N4
+N4,空く,あく; すく,"to become vacant, to open up (あく); to become less crowded (すく)",yes,N4
+N4,シートベルト,シートベルト,seatbelt,no,
+N4,対する,たいする,"to face, to confront, to oppose",yes,N3
+N4,直る,なおる,to be fixed,yes,N4
+N4,特売,とくばい,special sale,yes,N2
+N4,釣る,つる,to fish,yes,N4
+N4,木綿,もめん,cotton,yes,N4
+N4,知り合う,しりあう,to get acquainted,no,
+N4,和室,わしつ,Japanese-style room,no,
+N4,申し上げる,もうしあげる,"(humble)to say, to tell",yes,N4
+N4,ミリメートル,ミリメートル,millimeter,no,
+N4,植える,うえる,to plant,yes,N4
+N4,ポテトチップス,ポテトチップス,potato chips,no,
+N4,スパゲッティ,スパゲッティ,spaghetti,no,
+N4,山登り,やまのぼり,"mountain climbing, hiking",no,
+N4,両目,りょうめ,both eyes,no,
+N4,沸く,わく,"to boil, to grow hot",yes,N4
+N4,ログアウト,ログアウト,"logout, log out",no,
+N4,裏口,うらぐち,"backdoor, rear entrance",yes,N2
+N4,昼前,ひるまえ,"late morning, before noon",no,
+N4,あつあつ; 熱々,あつあつ,piping hot; also used for lovey-dovey couples,no,
+N4,申す,もうす,"to say, to be called (humble)",yes,N4
+N4,モップ,モップ,mop,no,
+N4,献立,こんだて,menu,yes,N2
+N4,小雨,こさめ,"light rain, drizzle",no,
+N4,伯母,おば,aunt (older sister of a parent),no,
+N4,叱る,しかる,to scold,yes,N3
+N4,講堂,こうどう,auditorium,yes,N4
+N4,洗い物,あらいもの,"washing, things to wash",no,
+N4,暮れる,くれる,"to get dark, to come to an end",yes,N4
+N4,夏服,なつふく,summer clothes,no,
+N4,一年中,いちねんじゅう,"all year long, throughout the year",no,
+N4,しょっぱい,しょっぱい,salty,no,
+N4,似る,にる,"to resemble, to be similar",yes,N4
+N4,ウインナー,ウインナー,"sausage, wiener",no,
+N4,お茶漬け,おちゃづけ,rice with green tea poured over it,no,
+N4,豚汁,とんじる,pork and vegetable miso soup,no,
+N4,伺う; うかがう,うかがう,to visit; to ask; to hear (humble),yes,N3
+N4,走り回る,はしりまわる,to run around,no,
+N4,シーフード,シーフード,seafood,no,
+N4,ほっぺ,ほっぺ,cheek (casual),no,
+N4,停留所,ていりゅうじょ,bus or tram stop,yes,N3
+N4,後片付け,あとかたづけ,"tidying up after, cleaning up afterwards",no,
+N4,おむすび,おむすび,rice ball,no,
+N4,ドキッ,ドキッ,"heart-skip, startled feeling (onomatopoeia for a sudden heartbeat)",no,
+N4,ワープロ,ワープロ,word processor,yes,N4
+N4,写す,うつす,to copy; to photograph,yes,N4
+N4,構う; かまう,かまう,"to mind, to care about, to bother with",yes,N3
+N4,漸く,ようやく,"at last, finally, hardly",yes,N2
+N4,ドッジボール,ドッジボール,dodgeball,no,
+N4,押し入れ,おしいれ,closet,yes,N4
+N4,お日様,おひさま,the sun (honorific/familiar form),no,
+N4,参る,まいる,humble expression for 行く and 来る,yes,N4
+N4,ショートケーキ,ショートケーキ,"shortcake, strawberry sponge cake",no,
+N4,ジロジロ,ジロジロ,"staring, gawking (at someone)",no,
+N4,東南,とうなん,southeast,no,
+N4,取り替える,とりかえる,"to exchange, to replace",yes,N4
+N4,沸かす,わかす,to boil,yes,N4
+N4,再来週,さらいしゅう,the week after next,yes,N2
+N4,よいしょ,よいしょ,heave-ho (said when lifting),no,
+N4,ホームルーム,ホームルーム,homeroom (school class meeting),no,
+N4,差し上げる,さしあげる,to give (humble),yes,N4
+N4,決め方,きめかた,"way of deciding, how to decide",no,
+N4,致す,いたす,to do (humble),yes,N4
+N4,漬ける,つける,"to soak, to moisten, to pickle",yes,N4
+N4,ピーナツ,ピーナツ,peanut,no,
+N4,引き算; 引算,ひきざん,subtraction,yes,N2
+N4,やっぱし,やっぱし,"as expected, after all (casual)",no,
+N4,初めてお目にかかります,はじめておめにかかります,"pleased to meet you (very formal, first meeting)",no,
+N4,千万,せんまん,"ten million, 10,000,000",no,
+N4,ピンポーン,ピンポーン,ding-dong (doorbell); correct!,no,
+N4,点く,つく,"to be started, to be switched on",yes,N2
+N4,泣かす,なかす,to make someone cry,no,
+N4,軟らかい,やわらかい,"soft, tender, limp",yes,N2
+N4,泳ぎ方,およぎかた,"way of swimming, swimming style",yes,N4
+N4,へいへい,へいへい,"yes yes, sure sure (casual/reluctant acknowledgment)",no,
+N4,チョウチョ,チョウチョ,butterfly,no,
+N4,召し上がる,めしあがる,"to eat, to drink (honorific)",yes,N4
+N4,ティシュペーパー,ティシュペーパー,"tissue, tissue paper",no,
+N4,再来月,さらいげつ,the month after next,yes,N2
+N4,降り出す,ふりだす,to start to rain (or snow),yes,N4
+N4,空揚げ,からあげ,fried chicken (karaage),no,
+N4,本箱,ほんばこ,bookcase,no,
+N4,連れる,つれる,"to lead, to take (a person)",no,

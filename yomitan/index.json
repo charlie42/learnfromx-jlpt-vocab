@@ -1,0 +1,13 @@
+{
+  "title": "LearnFromX JLPT-style N5-N1",
+  "revision": "2026.11.20",
+  "sequenced": false,
+  "format": 3,
+  "author": "LearnFromX",
+  "url": "https://github.com/charlie42/learnfromx-jlpt-vocab",
+  "isUpdatable": true,
+  "indexUrl": "https://raw.githubusercontent.com/charlie42/learnfromx-jlpt-vocab/refs/heads/main/yomitan/index.json",
+  "downloadUrl": "https://github.com/charlie42/learnfromx-jlpt-vocab/releases/latest/download/learnfromx-jlpt-vocab.zip",
+  "description": "JLPT-style level (N5-N1) for 18,000+ words, extended from Jonathan Waller's lists. The JLPT has not published a word list since 2010, so these levels are an estimate.",
+  "attribution": "Levels: LearnFromX JLPT-style vocabulary list (https://learnfromx.com), based on Jonathan Waller's JLPT Resources (http://www.tanos.co.uk/jlpt/, CC BY) and JMdict by the Electronic Dictionary Research and Development Group (https://www.edrdg.org/, CC BY-SA 4.0).\n\nLicence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). You may share and change this dictionary, also commercially, if you credit the sources above and share your changes under the same licence."
+}
